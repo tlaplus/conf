@@ -28,11 +28,11 @@ The presentations should be informal and leave sufficient time for discussions. 
 
 Proposals for presentations, with a short (1-2 page) abstract summarizing the content, should be sent by July 01, 2019 to tla2019@tlapl.us. Notification will be given by July 15, 2019. The abstracts and presentations given at the event will be made available on the Web.
 
-#### Location?
+#### Where?
 
 The conference will take place in St. Louis, MO, USA, on September 15, 2019. The conference will take place as part of Strange Loop 2019. Participants are required to register through the Strange Loop Web site.
 
-#### Organizers?
+#### Who?
 Organizers: Leslie Lamport, Markus Kuppe
 
 ```tla
