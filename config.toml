@@ -1,0 +1,13 @@
+languageCode = "en-us"
+baseurl = "http://2019.tlapl.us"
+title = "TLA+ Conf"
+theme = "hugo-theme-learn"
+pygmentsUseClassic = true
+PygmentsCodeFences = true
+publishDir = "docs"
+
+[Params]
+  Author = "Markus Kuppe"
+  disableSearch = true
+  disableInlineCopyToClipBoard = false
+  disableAssetsBusting = true
