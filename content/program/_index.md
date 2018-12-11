@@ -3,6 +3,14 @@ title = "Program"
 weight = 200
 +++
 
-The program consists of a mix of tutorials on the TLA+ specification language and its supporting tools. The tutorials do not assume previous knowledge of TLA+ or the tools. Participants are strongly encouraged to install the TLA Toolbox and the TLA+ Proof System on their laptops.
+```tla
 
-Participants must register through the Strange Loop registration page. 
+Schedule(t) == ...
+
+Talks == UNION { {"case studies","success stories"},
+                 {"TLC",  "Toolbox", "TLAPS", "SANY"},
+                 {"teaching", "courses"} }
+
+\A talk \in Talks : Schedule(talk)
+
+```

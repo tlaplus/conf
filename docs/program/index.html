@@ -202,9 +202,14 @@ St. Louis, MO, USA<br>
         
 
 
-<p>The program consists of a mix of tutorials on the TLA+ specification language and its supporting tools. The tutorials do not assume previous knowledge of TLA+ or the tools. Participants are strongly encouraged to install the TLA Toolbox and the TLA+ Proof System on their laptops.</p>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><code class="language-tla" data-lang="tla"><span></span><span style="color: #f8f8f2">Schedule(t)</span> <span style="color: #f8f8f2">==</span> <span style="color: #f92672">...</span>
 
-<p>Participants must register through the Strange Loop registration page.</p>
+<span style="color: #f8f8f2">Talks</span> <span style="color: #f8f8f2">==</span> <span style="color: #f8f8f2">UNION</span> <span style="color: #f8f8f2">{</span> <span style="color: #f8f8f2">{</span><span style="color: #e6db74">&quot;case studies&quot;</span><span style="color: #f8f8f2">,</span><span style="color: #e6db74">&quot;success stories&quot;</span><span style="color: #f8f8f2">},</span>
+                 <span style="color: #f8f8f2">{</span><span style="color: #e6db74">&quot;TLC&quot;</span><span style="color: #f8f8f2">,</span>  <span style="color: #e6db74">&quot;Toolbox&quot;</span><span style="color: #f8f8f2">,</span> <span style="color: #e6db74">&quot;TLAPS&quot;</span><span style="color: #f8f8f2">,</span> <span style="color: #e6db74">&quot;SANY&quot;</span><span style="color: #f8f8f2">},</span>
+                 <span style="color: #f8f8f2">{</span><span style="color: #e6db74">&quot;teaching&quot;</span><span style="color: #f8f8f2">,</span> <span style="color: #e6db74">&quot;courses&quot;</span><span style="color: #f8f8f2">}</span> <span style="color: #f8f8f2">}</span>
+
+<span style="color: #e6db74">\A</span> <span style="color: #f8f8f2">talk</span> <span style="color: #e6db74">\in</span> <span style="color: #f8f8f2">Talks</span> <span style="color: #f8f8f2">:</span> <span style="color: #f8f8f2">Schedule(talk)</span>
+</code></pre></div>
 
 
 <footer class=" footline" >
