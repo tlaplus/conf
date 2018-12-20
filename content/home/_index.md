@@ -22,7 +22,8 @@ Contributed talks should present work of interest to users of TLA<sup>+</sup> or
 
 * Industrial and academic case studies
 * Use of the TLA<sup>+</sup> tools or reports on their shortcomings
-* Teaching of TLA<sup>+</sup> in industry or universities
+* Teaching of TLA<sup>+</sup> in industry or academia
+* Novel techniques exploiting TLA<sup>+</sup> and its tools
 
 The presentations of either 20, 45, or 60 minutes should be informal and leave sufficient time for discussions. There will not be formal proceedings, and presentations of relevant work published elsewhere are welcome.
 
