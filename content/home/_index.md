@@ -33,7 +33,7 @@ Proposals for presentations, with a one-page summary of the content, should be s
 
 #### Where?
 
-The conference will take place in St. Louis, MO, USA, on September 15, 2019 as part of Strange Loop 2019. Participants are required to register through the [Strange Loop web site](https://thestrangeloop.com/register.html).
+The conference will take place in St. Louis, MO, USA, on September 12, 2019 as part of Strange Loop 2019. Participants are required to register through the [Strange Loop web site](https://thestrangeloop.com/register.html).
 
 #### Who?
 Organizers: Leslie Lamport, Markus Kuppe
