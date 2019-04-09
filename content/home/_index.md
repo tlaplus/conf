@@ -3,11 +3,10 @@ title = "Home"
 weight = 1
 +++
 
-<!--
 {{% notice note %}}
-*If you want a video introduction, come watch my [Strange Loop talk](https://www.youtube.com/watch?v=_9B__0S21y8) on TLA+!*
+*[Dharma Shukla](https://twitter.com/dharmashukla) - a Technical Fellow at Microsoft and Founder of [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db) - will in the keynote share his insights on how TLA<sup>+</sup> helped to build a globally distributed, [multi-model](https://github.com/Azure/azure-cosmos-tla) database!*
 {{% /notice %}}
--->
+
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
 TLA<sup>+</sup> is a formal language for specifying systems that is used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon.html) and [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/).

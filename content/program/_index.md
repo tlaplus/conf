@@ -7,10 +7,12 @@ weight = 200
 
 Schedule(t) == ...
 
+Keynote == {"Dharmak Shukla - Cosmos DB"}
+
 Talks == UNION { {"case studies","success stories"},
                  {"TLC",  "Toolbox", "TLAPS", "SANY"},
                  {"teaching", "courses"} }
 
-\A talk \in Talks : Schedule(talk)
+\A talk \in (Talks \cup Keynote) : Schedule(talk)
 
 ```
