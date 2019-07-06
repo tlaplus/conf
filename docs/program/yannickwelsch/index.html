@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Tags :: TLA&#43; Conf</title>
+    <title>YannickWelsch :: TLA&#43; Conf</title>
     
     
     <link href="/css/nucleus.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tags/">
+  <body class="" data-url="/program/yannickwelsch/">
     <nav id="sidebar" class="">
 
 
@@ -80,7 +80,7 @@
   
     
     <li data-nav-id="/program/" title="Program" class="dd-item 
-        
+        parent
         
         
         ">
@@ -197,7 +197,19 @@
                     
           
           
-            Tags
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>TLA+ Conf</a> > <a href='/program/'>Program</a> > YannickWelsch
+          
+         
+          
+         
           
            
                   </span>
@@ -213,7 +225,23 @@ St. Louis, MO, USA<br>
                 
                     <div class="progress">
     <div class="wrapper">
-
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#using-tla-for-fun-and-profit-in-the-development-of-elasticsearch">Using TLA+ for fun and profit in the development of Elasticsearch</a>
+<ul>
+<li><a href="#yannick-welsch">Yannick Welsch</a>
+<ul>
+<li><a href="#elastic">Elastic</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
     </div>
 </div>
 
@@ -232,9 +260,60 @@ St. Louis, MO, USA<br>
 
 
 
+<h3 id="using-tla-for-fun-and-profit-in-the-development-of-elasticsearch">Using TLA+ for fun and profit in the development of Elasticsearch</h3>
+
+<h4 id="yannick-welsch">Yannick Welsch</h4>
+
+<h5 id="elastic">Elastic</h5>
+
+<p>Elasticsearch is a distributed search and analytics engine based on Apache Lucene. Initially
+released in 2010, it has quickly become the most popular enterprise search engine, and
+is commonly used for log analytics, full-text search, operational and security intelligence,
+business analytics, and metrics use cases. Built as a distributed system since its inception,
+Elasticsearch effortlessly scales to clusters of hundreds of servers. As part of a larger
+resiliency effort, Elasticsearch’s core cluster coordination and data replication algorithms
+have undergone major overhauls in recent years. The use of formal methods, with in
+particular TLA + , PlusCal and the TLC model checker, has extensively contributed to
+the goal of creating a much safer and resilient system. This presentation will provide an
+overview on the various uses of TLA + during the development of Elasticsearch:</p>
+
+<ul>
+<li><p>We refined and validated an informal specification of the data replication algorithm
+that has been powering Elasticsearch since version 6, released in November 2017, by
+creating a TLA + specification during the implementation effort. This algorithm, based
+on the primary-backup approach, enables high-throughput sharded data ingestion
+pipelines and has served as fundational work to build newer features such as cross-
+datacenter replication.</p></li>
+
+<li><p>We studied two bugs in a highly concurrent component that handles deletion tomb-
+stones and out-of-order writes under various optimizations. The implementation was
+mapped onto a PlusCal spec, which, with the use of the TLC model checker, led
+us to discover an additional unknown bug in the implementation, which we only
+later observed in the wild. The bug fixes were first prototyped using the PlusCal
+specification.</p></li>
+
+<li><p>We designed a new cluster coordination subsystem and validated it with TLA + before
+starting off our implementation efforts. This new cluster coordination subsystem
+is powering all Elasticsearch clusters since version 7, released in April 2019. The
+TLA + specification is modeling the core safety bits of the consensus algorithm with
+dynamic reconfiguration. The implementation of this core safety module has a direct
+one-to-one mapping with the TLA + specification.</p></li>
+
+<li><p>Our chaos-monkey style test infrastructure discovered a bug in the cluster state
+storage layer that was related to the atomic persistence of state. This only surfaced
+through randomized testing after running for months on our CI infrastructure. The
+implementation was mapped onto a TLA + model to rule out other such bugs. The
+TLC model checker was able to find this bug within seconds.</p></li>
+</ul>
+
+<p>All Elasticsearch TLA + specifications are open-source and publicly available on our Github
+repository, just as the actual system that is modeled.</p>
+
+
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -262,3 +341,4 @@ St. Louis, MO, USA<br>
 
   </body>
 </html>
+

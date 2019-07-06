@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Tags :: TLA&#43; Conf</title>
+    <title>IvanBeschastnikh :: TLA&#43; Conf</title>
     
     
     <link href="/css/nucleus.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tags/">
+  <body class="" data-url="/program/ivanbeschastnikh/">
     <nav id="sidebar" class="">
 
 
@@ -80,7 +80,7 @@
   
     
     <li data-nav-id="/program/" title="Program" class="dd-item 
-        
+        parent
         
         
         ">
@@ -197,7 +197,19 @@
                     
           
           
-            Tags
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>TLA+ Conf</a> > <a href='/program/'>Program</a> > IvanBeschastnikh
+          
+         
+          
+         
           
            
                   </span>
@@ -213,7 +225,23 @@ St. Louis, MO, USA<br>
                 
                     <div class="progress">
     <div class="wrapper">
-
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#compiling-distributed-system-models-into-implementations-with-pgo">Compiling Distributed System Models into Implementations with PGo</a>
+<ul>
+<li><a href="#ivan-beschastnikh-renato-costa-matthew-do-finn-hackett">Ivan Beschastnikh, Renato Costa, Matthew Do, Finn Hackett</a>
+<ul>
+<li><a href="#university-of-british-columbia-university-of-waterloo">University of British Columbia, University of Waterloo</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
     </div>
 </div>
 
@@ -232,9 +260,22 @@ St. Louis, MO, USA<br>
 
 
 
+<h3 id="compiling-distributed-system-models-into-implementations-with-pgo">Compiling Distributed System Models into Implementations with PGo</h3>
+
+<h4 id="ivan-beschastnikh-renato-costa-matthew-do-finn-hackett">Ivan Beschastnikh, Renato Costa, Matthew Do, Finn Hackett</h4>
+
+<h5 id="university-of-british-columbia-university-of-waterloo">University of British Columbia, University of Waterloo</h5>
+
+<p>Distributed systems are difficult to design and implement correctly. In response, both research and industry are exploring applications of formal methods to distributed systems. For
+example, Amazon has reported using TLA+ and PlusCal to verify its web services. A key challenge in this domain is the missing link between the formal design of a system and its implementation. Today, this link is bridged through manual and error-prone developer effort.</p>
+
+<p>In this presentation we will first present a language called Modular PluCal (MPCal) that extends PlusCal by separating the model of the system from a model of the environment. We will then present a compiler toolchain called <a href="https://github.com/UBC-NSS/pgo">PGo</a>. PGo translates MPCal models to TLA+ for model checking, and also compiles MPCal models to executable Go code. In this way, system designers can use MPCal to model and verify their distributed system designs, and can then use PGo to extract working implementations of these designs.</p>
+
+
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -262,3 +303,4 @@ St. Louis, MO, USA<br>
 
   </body>
 </html>
+

@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Tags :: TLA&#43; Conf</title>
+    <title>DavidMcNeil :: TLA&#43; Conf</title>
     
     
     <link href="/css/nucleus.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tags/">
+  <body class="" data-url="/program/davidmcneil/">
     <nav id="sidebar" class="">
 
 
@@ -80,7 +80,7 @@
   
     
     <li data-nav-id="/program/" title="Program" class="dd-item 
-        
+        parent
         
         
         ">
@@ -197,7 +197,19 @@
                     
           
           
-            Tags
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>TLA+ Conf</a> > <a href='/program/'>Program</a> > DavidMcNeil
+          
+         
+          
+         
           
            
                   </span>
@@ -213,7 +225,23 @@ St. Louis, MO, USA<br>
                 
                     <div class="progress">
     <div class="wrapper">
-
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#s-expressions-for-actions-with-logic-temporal">S-expressions for Actions with Logic Temporal</a>
+<ul>
+<li><a href="#david-mcneil">David McNeil</a>
+<ul>
+<li><a href="#viasat">Viasat</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
     </div>
 </div>
 
@@ -232,9 +260,35 @@ St. Louis, MO, USA<br>
 
 
 
+<h3 id="s-expressions-for-actions-with-logic-temporal">S-expressions for Actions with Logic Temporal</h3>
+
+<h4 id="david-mcneil">David McNeil</h4>
+
+<h5 id="viasat">Viasat</h5>
+
+<p>This talk will present the SALT tool which provides &ldquo;S-expressions for Actions with Logic Temporal&rdquo;. Specifically, SALT was designed and built with the goal of providing a one-to-one mapping from Clojure syntax to TLA+ syntax. This work was born out of practical experience in creating TLA+ models of communication protocols in the satellite communication industry. Software developers working on TLA+ in this domain learned to deeply appreciate the mathematical precision and conciseness of the TLA+ syntax as well as the capabilities of the TLA+ Toolbox for validating models. The SALT tool was built as an attempt to improve the process of writing TLA+ specifications primarily by providing the following:</p>
+
+<ul>
+<li><p>an interactive, read-eval-print loop (REPL) to provide rapid feedback to specification authors</p></li>
+
+<li><p>a natural means of writing unit tests around individual TLA+ operators as they are written</p></li>
+
+<li><p>auto-formatting to avoid the need to manually fiddle with formatting as specifications are modified</p></li>
+</ul>
+
+<p>These goals are accomplished via SALT which allows TLA+ specifications to be written as Clojure s-expressions. Clojure is a dialect of Lisp that runs on the Java Virtual Machine and other virtual machines. In SALT, s-expressions are valid Clojure statements which are evaluated to produce TLA+ code.</p>
+
+<p>Clojure editors such as Emacs allow the SALT specifications to be manipulated in a very fluid fashion through tools such as paredit. SALT uses the fact that the s-expressions are puns which have the TLA+ semantics when transpiled to TLA+ but also having semantics as &ldquo;plain old Clojure&rdquo;. Of course, the Clojure semantics are not ultimately the same as the TLA+ semantics but when testing individual operators there is a natural bottom-up development path that allows the Clojure semantics to be tested first and then the TLA+ semantics to be used.</p>
+
+<p>Specifically the specification operator are first built as s-expressions in the context of a REPL providing rapid feedback regarding compilation and execution errors. Automated unit test suites can be built around the operators in Clojure. This development approach is very natural for developers and leads to increased confidence in using TLA+. Once the author has confidence in the SALT specification it can be evaluated to produce a well formatted TLA+ specification. By the time a TLA+ specification is run in the TLA+ Toolbox the author has confidence that syntactically and logically the individual operators are correct. The outstanding question is whether the overall model behaves as expected, which is what the TLA+ Toolbox can assess.</p>
+
+<p>In practice, this tool has proven to be effective not just in speeding the development time of writing specifications, but also in providing a path for specification authors to confidently build specifications incrementally. This benefits are realized in a manner which does not obscure the TLA+ concepts.</p>
+
+
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -262,3 +316,4 @@ St. Louis, MO, USA<br>
 
   </body>
 </html>
+
