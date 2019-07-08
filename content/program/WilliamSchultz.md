@@ -4,7 +4,7 @@ hidden = true
 weight = 200
 +++
 
-### Using TLA+ for fun and profit in the development of Elasticsearch
+### Fixing a MongoDB Replication Protocol Bug with TLA+
 
 #### William Schultz
 ##### MongoDB
