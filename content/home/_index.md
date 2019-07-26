@@ -9,7 +9,7 @@ weight = 1
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
-TLA<sup>+</sup> is a formal language for specifying systems that is used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon.html) and [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/).
+TLA<sup>+</sup> is a formal language for specifying systems that is used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon-excerpt.html) and [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/).
 
 Tool support for TLA<sup>+</sup> is provided through the TLA<sup>+</sup> Toolbox, an Integrated Development Environment for writing TLA<sup>+</sup> specifications and analyzing them using the TLA<sup>+</sup> tools. The tools include the TLC model checker, the PlusCal algorithm language and its translator, and the TLA<sup>+</sup> Proof System.
 
