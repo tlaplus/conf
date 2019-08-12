@@ -82,5 +82,14 @@
       <description>Using TLA+ for fun and profit in the development of Elasticsearch Yannick Welsch Elastic Elasticsearch is a distributed search and analytics engine based on Apache Lucene. Initially released in 2010, it has quickly become the most popular enterprise search engine, and is commonly used for log analytics, full-text search, operational and security intelligence, business analytics, and metrics use cases. Built as a distributed system since its inception, Elasticsearch effortlessly scales to clusters of hundreds of servers.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://2019.tlapl.us/program/tba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://2019.tlapl.us/program/tba/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

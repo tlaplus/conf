@@ -47,6 +47,10 @@
   </url>
   
   <url>
+    <loc>http://2019.tlapl.us/program/tba/</loc>
+  </url>
+  
+  <url>
     <loc>http://2019.tlapl.us/categories/</loc>
     <priority>0</priority>
   </url>
