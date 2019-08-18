@@ -9,7 +9,7 @@ weight = 200
 #### David McNeil
 ##### Viasat
 
-This talk will present the SALT tool which provides "S-expressions for Actions with Logic Temporal". Specifically, SALT was designed and built with the goal of providing a one-to-one mapping from Clojure syntax to TLA+ syntax. This work was born out of practical experience in creating TLA+ models of communication protocols in the satellite communication industry. Software developers working on TLA+ in this domain learned to deeply appreciate the mathematical precision and conciseness of the TLA+ syntax as well as the capabilities of the TLA+ Toolbox for validating models. The SALT tool was built as an attempt to improve the process of writing TLA+ specifications primarily by providing the following:
+This talk will present the [SALT tool](https://github.com/Viasat/salt) which provides "S-expressions for Actions with Logic Temporal". Specifically, SALT was designed and built with the goal of providing a one-to-one mapping from Clojure syntax to TLA+ syntax. This work was born out of practical experience in creating TLA+ models of communication protocols in the satellite communication industry. Software developers working on TLA+ in this domain learned to deeply appreciate the mathematical precision and conciseness of the TLA+ syntax as well as the capabilities of the TLA+ Toolbox for validating models. The SALT tool was built as an attempt to improve the process of writing TLA+ specifications primarily by providing the following:
 
  * an interactive, read-eval-print loop (REPL) to provide rapid feedback to specification authors
 
