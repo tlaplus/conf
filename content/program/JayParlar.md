@@ -7,7 +7,7 @@ weight = 200
 ### Alloy for TLA+ Users
 
 #### Jay Parlar
-##### Rackspace
+##### Okta
 
 Alloy (http://alloytools.org/) is a modelling language for software systems, out of MIT. Like TLA+, it comes bundled with an IDE and a model checker. Its mathematical foundation is also based on sets and predicate logic. Where Alloy differs from TLA+ is in its "visualizer", its use of SAT solvers, and its focus on modelling relational data instead of concurrent systems. This talk provides a high level overview of Alloy for a typical TLA+ user, and show instances where one might choose Alloy over TLA+, and vice-versa, and more importantly, why it's hugely valuable to know both systems.
 
