@@ -70,7 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://2019.tlapl.us/program/vaibhavsharma/</guid>
-      <description>TLA+ @ Azure IoT Vaibhav Sharma Microsoft TBD</description>
+      <description>Building Hyperscale IoT Services With TLA+ Vaibhav Sharma Microsoft Discover how Azure IoT adopted TLA+ to build distributed hyperscale services with high availability and desired consistency. It led to early detection of critical design flaws and resulted in massive reduction in post-production issues.</description>
     </item>
     
     <item>
