@@ -8,7 +8,7 @@ weight = 200
 time  | title  | speaker
 ------|--------|--------
 9:00 | Keynote: Lessons learned from building and operating a globally distributed database service | [Dharma Shukla](https://www.linkedin.com/in/dharmashukla/)
-9:45 | TBA |
+9:45 | [TLA+ at Azure IoT]({{< ref "/VaibhavSharma.md" >}}) | [Vaibhav Sharma](https://www.linkedin.com/in/vaibhav-sharma-6404459/) |
 10:30 | *Coffee break* | 
 11:00 | [Compiling Distributed System Models into Implementations with PGo]({{< ref "/IvanBeschastnikh.md" >}}) | [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
 11:45 |	[S-expressions for Actions with Logic Temporal]({{< ref "/DavidMcNeil.md" >}}) | [David McNeil](https://david-mcneil.com)
