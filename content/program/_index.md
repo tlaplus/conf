@@ -7,7 +7,7 @@ weight = 200
 
 time  | title  | speaker
 ------|--------|--------
-9:00 | Keynote: Lessons learned from building and operating a globally distributed database service | [Dharma Shukla](https://www.linkedin.com/in/dharmashukla/)
+9:00 | Keynote: TLA+ at Microsoft: 16 Years in Production | [David Langworthy](https://www.linkedin.com/in/davidlangworthy/)
 9:45 | [Building Hyperscale IoT Services With TLA+]({{< ref "/VaibhavSharma.md" >}}) | [Vaibhav Sharma](https://www.linkedin.com/in/vaibhav-sharma-6404459/) |
 10:30 | *Coffee break* | 
 11:00 | [Compiling Distributed System Models into Implementations with PGo]({{< ref "/IvanBeschastnikh.md" >}}) | [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
