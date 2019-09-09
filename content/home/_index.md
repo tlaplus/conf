@@ -3,9 +3,6 @@ title = "Home"
 weight = 1
 +++
 
-{{% notice note %}}
-*[Dharma Shukla](https://twitter.com/dharmashukla) - a Technical Fellow at Microsoft and Founder of [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db) - will in the keynote share his insights on how TLA<sup>+</sup> helped to build a globally distributed, [multi-model](https://github.com/Azure/azure-cosmos-tla) database!*
-{{% /notice %}}
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
