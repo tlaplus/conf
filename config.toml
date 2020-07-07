@@ -11,3 +11,7 @@ publishDir = "docs"
   disableSearch = true
   disableInlineCopyToClipBoard = false
   disableAssetsBusting = true
+
+## https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
+[markup.goldmark.renderer]
+  unsafe= true

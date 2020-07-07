@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="generator" content="Hugo 0.40.1" />
+    <meta name="generator" content="Hugo 0.68.3" />
     <meta name="description" content="">
 <meta name="author" content="Markus Kuppe">
 
@@ -248,21 +248,13 @@ St. Louis, MO, USA<br>
                     <div class="progress">
     <div class="wrapper">
 <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#using-tla-for-fun-and-profit-in-the-development-of-elasticsearch">Using TLA+ for fun and profit in the development of Elasticsearch</a>
-<ul>
-<li><a href="#yannick-welsch">Yannick Welsch</a>
-<ul>
-<li><a href="#elastic">Elastic</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#using-tla-for-fun-and-profit-in-the-development-of-elasticsearch">Using TLA+ for fun and profit in the development of Elasticsearch</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
     </div>
 </div>
@@ -280,14 +272,9 @@ St. Louis, MO, USA<br>
         
 
 
-
-
 <h3 id="using-tla-for-fun-and-profit-in-the-development-of-elasticsearch">Using TLA+ for fun and profit in the development of Elasticsearch</h3>
-
 <h4 id="yannick-welsch">Yannick Welsch</h4>
-
 <h5 id="elastic">Elastic</h5>
-
 <p><a href="https://github.com/elastic/elasticsearch">Elasticsearch</a> is a distributed search and analytics engine based on <a href="https://lucene.apache.org/">Apache Lucene</a>. Initially
 released in 2010, it has quickly become the <a href="https://db-engines.com/en/ranking/search+engine">most popular</a> enterprise search engine, and
 is commonly used for log analytics, full-text search, operational and security intelligence,
@@ -298,34 +285,37 @@ have undergone major overhauls in recent years. The use of formal methods, with 
 particular <a href="http://lamport.azurewebsites.net/tla/tla.html">TLA+, PlusCal and the TLC model checker</a>, has extensively contributed to
 the goal of creating a much safer and resilient system. This presentation will provide an
 overview on the various uses of TLA + during the development of Elasticsearch:</p>
-
 <ul>
-<li><p>We refined and validated an informal specification of the <a href="https://www.elastic.co/blog/elasticsearch-sequence-ids-6-0">data replication algorithm</a>
+<li>
+<p>We refined and validated an informal specification of the <a href="https://www.elastic.co/blog/elasticsearch-sequence-ids-6-0">data replication algorithm</a>
 that has been powering Elasticsearch since version 6, released in November 2017, by
 creating a <a href="https://github.com/elastic/elasticsearch-formal-models/blob/master/data/tla/replication.tla">TLA+ specification</a> during the implementation effort. This algorithm, based
 on the primary-backup approach, enables high-throughput sharded data ingestion
-pipelines and has served as fundational work to build newer features such as <a href="https://www.elastic.co/blog/follow-the-leader-an-introduction-to-cross-cluster-replication-in-elasticsearch">cross-datacenter replication</a>.</p></li>
-
-<li><p>We studied <a href="https://github.com/elastic/elasticsearch/pull/28787">two</a> <a href="https://github.com/elastic/elasticsearch/pull/28790">bugs</a> in a highly concurrent component that handles deletion tomb-
+pipelines and has served as fundational work to build newer features such as <a href="https://www.elastic.co/blog/follow-the-leader-an-introduction-to-cross-cluster-replication-in-elasticsearch">cross-datacenter replication</a>.</p>
+</li>
+<li>
+<p>We studied <a href="https://github.com/elastic/elasticsearch/pull/28787">two</a> <a href="https://github.com/elastic/elasticsearch/pull/28790">bugs</a> in a highly concurrent component that handles deletion tomb-
 stones and out-of-order writes under various optimizations. The implementation was
 mapped onto a <a href="https://github.com/elastic/elasticsearch-formal-models/blob/master/ReplicaEngine/tla/ReplicaEngine.tla">PlusCal spec</a>, which, with the use of the TLC model checker, led
 us to discover an additional unknown bug in the implementation, which we only
 later <a href="https://github.com/elastic/elasticsearch/issues/31976#issuecomment-404722753">observed</a> in the wild. The <a href="https://github.com/elastic/elasticsearch/pull/29619/files#diff-1a19a661d8e349460d8f8ae99cbe1274R318">bug fixes</a> were first <a href="https://github.com/elastic/elasticsearch-formal-models/pull/29/commits/893a0edbce86b2e114ea59de4170c838024fc6ac">prototyped</a> using the PlusCal
-specification.</p></li>
-
-<li><p>We designed a <a href="https://www.elastic.co/blog/a-new-era-for-cluster-coordination-in-elasticsearch">new cluster coordination</a> subsystem and validated it with TLA + before starting off our implementation efforts. This new cluster coordination subsystem
+specification.</p>
+</li>
+<li>
+<p>We designed a <a href="https://www.elastic.co/blog/a-new-era-for-cluster-coordination-in-elasticsearch">new cluster coordination</a> subsystem and validated it with TLA + before starting off our implementation efforts. This new cluster coordination subsystem
 is powering all Elasticsearch clusters since version 7, released in April 2019. The
 <a href="https://github.com/elastic/elasticsearch-formal-models/blob/ca26d5cb4ce9fd8c8b032a11bc849b52a812b6e5/ZenWithTerms/tla/ZenWithTerms.tla">TLA+ specification</a> is modeling the core safety bits of the consensus algorithm with
 dynamic reconfiguration. The <a href="https://github.com/elastic/elasticsearch/blob/a1fcb8a7e6c6880ae72273f7b336450af42aae2b/server/src/main/java/org/elasticsearch/cluster/coordination/CoordinationState.java">implementation</a> of this core safety module has a direct
-one-to-one mapping with the TLA + specification.</p></li>
-
-<li><p>Our chaos-monkey style test infrastructure discovered a <a href="https://github.com/elastic/elasticsearch/pull/40519">bug</a> in the cluster state
+one-to-one mapping with the TLA + specification.</p>
+</li>
+<li>
+<p>Our chaos-monkey style test infrastructure discovered a <a href="https://github.com/elastic/elasticsearch/pull/40519">bug</a> in the cluster state
 storage layer that was related to the atomic persistence of state. This only surfaced
 through randomized testing after running for months on our <a href="https://elasticsearch-ci.elastic.co/">CI infrastructure</a>. The
 implementation was mapped onto a <a href="https://github.com/elastic/elasticsearch-formal-models/blob/master/Storage/tla/Storage.tla">TLA+ model</a> to rule out other such bugs. The
-TLC model checker was able to find this bug within seconds.</p></li>
+TLC model checker was able to find this bug within seconds.</p>
+</li>
 </ul>
-
 <p>All Elasticsearch TLA + specifications are open-source and publicly available on our <a href="https://github.com/elastic/elasticsearch-formal-models">Github repository</a>, just as the <a href="https://github.com/elastic/elasticsearch">actual system</a> that is modeled.</p>
 
 
