@@ -1,6 +1,6 @@
 +++
 title = "Home"
-weight = 100
+weight = 1
 +++
 
 
@@ -10,27 +10,21 @@ TLA<sup>+</sup> is a formal language for specifying systems that is used in indu
 
 Tool support for TLA<sup>+</sup> is provided through the TLA<sup>+</sup> Toolbox, an Integrated Development Environment for writing TLA<sup>+</sup> specifications and analyzing them using the TLA<sup>+</sup> tools. The tools include the TLC model checker, the PlusCal algorithm language and its translator, and the TLA<sup>+</sup> Proof System.
 
-### TLA+ Conference?
+### TLA+ Community Event?
 
-The objective of the TLA<sup>+</sup> Conference is to bring together industrial users of the TLA<sup>+</sup> specification language and its associated tools; it complements the biannual [TLA+ workshops](http://tla2018.loria.fr/). The conference will consist of invited talks that present developments concerning the TLA<sup>+</sup> language and tools, and of contributed talks.
+We will [again](http://tla2018.loria.fr/) organize a meeting for presenting new developments around TLA+ and exchanging around ongoing work. The meeting is planned as a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) in mid-October. Due to the ongoing pandemic the meeting will in all likelihood take place as a virtual meeting online, with the exact date(s) to be determined.
 
-Contributed talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
-
-* Industrial and academic case studies
-* Use of the TLA<sup>+</sup> tools or reports on their shortcomings
-* Teaching of TLA<sup>+</sup> in industry or academia
-* Novel techniques exploiting TLA<sup>+</sup> and its tools
-
-The presentations of either 20, 45, or 60 minutes should be informal and leave sufficient time for discussions. There will not be formal proceedings, and presentations of relevant work published elsewhere are welcome.
+Please let us know if you have suggestions or requests for the content or the organization of the meeting. A call for contributions will be published once the format of the meeting has been fixed.
 
 #### When?
 
-Proposals for presentations, with a one-page summary of the content, should be sent by July 01, 2019 to \<\<tla2019>> \o \<\<@>> \o \<\<tlapl.us>>. Notification of acceptance will be given by July 15, 2019. The abstracts and presentations given at the event will be made available on the web.
+October (exact date to be announced)
 
 #### Where?
 
-The conference will take place in St. Louis, MO, USA, on September 12, 2019 as part of Strange Loop 2019. Participants are required to register through the [Strange Loop web site](https://thestrangeloop.com/register.html).
+Virtual
 
 #### Who?
-Organizers: Leslie Lamport, Markus Kuppe
+
+Organizers: Leslie Lamport, Stephan Merz, Markus Kuppe
 

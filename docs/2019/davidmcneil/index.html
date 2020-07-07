@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title>Home :: TLA&#43; Community Event &amp; Conference</title>
+    <title>DavidMcNeil :: TLA&#43; Community Event &amp; Conference</title>
     
     
     <link href="/css/nucleus.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/home/">
+  <body class="" data-url="/2019/davidmcneil/">
     <nav id="sidebar" class="">
 
 
@@ -58,8 +58,8 @@
   
     
     <li data-nav-id="/home/" title="Home" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/home/">
@@ -80,7 +80,7 @@
   
     
     <li data-nav-id="/2019/" title="Conf2019" class="dd-item 
-        
+        parent
         
         
         ">
@@ -182,7 +182,13 @@
             
           
           
-            <a href='/'>TLA+ Community Event & Conference</a> > Home
+            
+            
+          
+          
+            <a href='/'>TLA+ Community Event & Conference</a> > <a href='/2019/'>Conf2019</a> > DavidMcNeil
+          
+         
           
          
           
@@ -203,8 +209,7 @@ Virtual<br>
   <ul>
     <li>
       <ul>
-        <li><a href="#what-is-tla">What is TLA+?</a></li>
-        <li><a href="#tla-community-event">TLA+ Community Event?</a></li>
+        <li><a href="#s-expressions-for-actions-with-logic-temporal">S-expressions for Actions with Logic Temporal</a></li>
       </ul>
     </li>
   </ul>
@@ -225,24 +230,31 @@ Virtual<br>
         
 
 
-<h3 id="what-is-tla">What is TLA+?</h3>
-<!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
-<p>TLA<sup>+</sup> is a formal language for specifying systems that is used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at <a href="http://lamport.azurewebsites.net/tla/amazon-excerpt.html">Amazon Web Services</a> and <a href="https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/">Microsoft</a>.</p>
-<p>Tool support for TLA<sup>+</sup> is provided through the TLA<sup>+</sup> Toolbox, an Integrated Development Environment for writing TLA<sup>+</sup> specifications and analyzing them using the TLA<sup>+</sup> tools. The tools include the TLC model checker, the PlusCal algorithm language and its translator, and the TLA<sup>+</sup> Proof System.</p>
-<h3 id="tla-community-event">TLA+ Community Event?</h3>
-<p>We will <a href="http://tla2018.loria.fr/">again</a> organize a meeting for presenting new developments around TLA+ and exchanging around ongoing work. The meeting is planned as a satellite of the <a href="http://www.disc-conference.org/wp/disc2020/">Symposium on Distributed Computing</a> in mid-October. Due to the ongoing pandemic the meeting will in all likelihood take place as a virtual meeting online, with the exact date(s) to be determined.</p>
-<p>Please let us know if you have suggestions or requests for the content or the organization of the meeting. A call for contributions will be published once the format of the meeting has been fixed.</p>
-<h4 id="when">When?</h4>
-<p>October (exact date to be announced)</p>
-<h4 id="where">Where?</h4>
-<p>Virtual</p>
-<h4 id="who">Who?</h4>
-<p>Organizers: Leslie Lamport, Stephan Merz, Markus Kuppe</p>
+<h3 id="s-expressions-for-actions-with-logic-temporal">S-expressions for Actions with Logic Temporal</h3>
+<h4 id="david-mcneil">David McNeil</h4>
+<h5 id="viasat">Viasat</h5>
+<p>This talk will present the <a href="https://github.com/Viasat/salt">SALT tool</a> which provides &ldquo;S-expressions for Actions with Logic Temporal&rdquo;. Specifically, SALT was designed and built with the goal of providing a one-to-one mapping from Clojure syntax to TLA+ syntax. This work was born out of practical experience in creating TLA+ models of communication protocols in the satellite communication industry. Software developers working on TLA+ in this domain learned to deeply appreciate the mathematical precision and conciseness of the TLA+ syntax as well as the capabilities of the TLA+ Toolbox for validating models. The SALT tool was built as an attempt to improve the process of writing TLA+ specifications primarily by providing the following:</p>
+<ul>
+<li>
+<p>an interactive, read-eval-print loop (REPL) to provide rapid feedback to specification authors</p>
+</li>
+<li>
+<p>a natural means of writing unit tests around individual TLA+ operators as they are written</p>
+</li>
+<li>
+<p>auto-formatting to avoid the need to manually fiddle with formatting as specifications are modified</p>
+</li>
+</ul>
+<p>These goals are accomplished via SALT which allows TLA+ specifications to be written as Clojure s-expressions. Clojure is a dialect of Lisp that runs on the Java Virtual Machine and other virtual machines. In SALT, s-expressions are valid Clojure statements which are evaluated to produce TLA+ code.</p>
+<p>Clojure editors such as Emacs allow the SALT specifications to be manipulated in a very fluid fashion through tools such as paredit. SALT uses the fact that the s-expressions are puns which have the TLA+ semantics when transpiled to TLA+ but also having semantics as &ldquo;plain old Clojure&rdquo;. Of course, the Clojure semantics are not ultimately the same as the TLA+ semantics but when testing individual operators there is a natural bottom-up development path that allows the Clojure semantics to be tested first and then the TLA+ semantics to be used.</p>
+<p>Specifically the specification operator are first built as s-expressions in the context of a REPL providing rapid feedback regarding compilation and execution errors. Automated unit test suites can be built around the operators in Clojure. This development approach is very natural for developers and leads to increased confidence in using TLA+. Once the author has confidence in the SALT specification it can be evaluated to produce a well formatted TLA+ specification. By the time a TLA+ specification is run in the TLA+ Toolbox the author has confidence that syntactically and logically the individual operators are correct. The outstanding question is whether the overall model behaves as expected, which is what the TLA+ Toolbox can assess.</p>
+<p>In practice, this tool has proven to be effective not just in speeding the development time of writing specifications, but also in providing a path for specification authors to confidently build specifications incrementally. This benefits are realized in a manner which does not obscure the TLA+ concepts.</p>
 
 
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -270,3 +282,4 @@ Virtual<br>
 
   </body>
 </html>
+

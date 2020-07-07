@@ -3,67 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://2019.tlapl.us/home/</loc>
+    <loc>http://conf.tlapl.us/home/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/davidmcneil/</loc>
+    <loc>http://conf.tlapl.us/2019/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/hillelwayne/</loc>
+    <loc>http://conf.tlapl.us/2019/davidmcneil/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/ivanbeschastnikh/</loc>
+    <loc>http://conf.tlapl.us/2019/hillelwayne/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/jayparlar/</loc>
+    <loc>http://conf.tlapl.us/2019/ivanbeschastnikh/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/muratdemirbas/</loc>
+    <loc>http://conf.tlapl.us/2019/jayparlar/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/</loc>
+    <loc>http://conf.tlapl.us/2019/muratdemirbas/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/russellmull/</loc>
+    <loc>http://conf.tlapl.us/2019/russellmull/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/vaibhavsharma/</loc>
+    <loc>http://conf.tlapl.us/2019/vaibhavsharma/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/williamschultz/</loc>
+    <loc>http://conf.tlapl.us/2019/williamschultz/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/yannickwelsch/</loc>
+    <loc>http://conf.tlapl.us/2019/yannickwelsch/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/registration/</loc>
+    <loc>http://conf.tlapl.us/categories/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/program/tba/</loc>
+    <loc>http://conf.tlapl.us/tags/</loc>
   </url>
   
   <url>
-    <loc>http://2019.tlapl.us/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://2019.tlapl.us/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://2019.tlapl.us/</loc>
+    <loc>http://conf.tlapl.us/</loc>
   </url>
   
 </urlset>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TLA&#43; Community Event &amp; Conference</title>
-    <link>http://conf.tlapl.us/</link>
-    <description>Recent content on TLA&#43; Community Event &amp; Conference</description>
+    <title>Conf2019 on TLA&#43; Community Event &amp; Conference</title>
+    <link>http://conf.tlapl.us/2019/</link>
+    <description>Recent content in Conf2019 on TLA&#43; Community Event &amp; Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://conf.tlapl.us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://conf.tlapl.us/2019/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
