@@ -17,8 +17,9 @@ The objective of the TLA+ Community Events is to bring together practitioners an
 * innovative use of existing tools or reports on their shortcomings
 * use of TLA+ in education
 
-The presentations should be informal and leave sufficient time for discussions. There will not be formal proceedings, and presentations of relevant work published elsewhere are welcome.
-Proposals for presentations, with a short (1-2 page) abstract summarizing the content, should be sent by August 31, 2020, to tla2020 @ tlapl.us. Notification will be sent soon after.
+There will be no formal proceedings, and presentations of relevant work published elsewhere are welcome. Presentations - of either 20 or 30 minutes - must be recorded and submitted before the event for early distribution. After the official airing of a presentation during the event, a (synchronous) Q&A session will discuss the presentation.
+
+Proposals for 20 or 30 minutes presentations, with a short (1-2 page) abstract summarizing the content, should be sent by August 31, 2020, to tla2020 @ tlapl.us. Notification will be posted soon after.
 
 The workshop is planned as a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place on-line in mid-October 2020 (exact date and format to be announced).
 
