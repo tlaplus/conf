@@ -3,6 +3,7 @@ title = "Home"
 weight = 1
 +++
 
+{{% notice note %}} <a href="https://twitter.com/dharmashukla">Dharma</a> <a href="https://www.linkedin.com/in/dharmashukla/">Shukla</a> - Technical Fellow at Microsoft and Founder of Azure Cosmos DB - will share his insights on how TLA+ helps Microsoft build planetary-scale systems in his keynote! {{% /notice %}}
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
