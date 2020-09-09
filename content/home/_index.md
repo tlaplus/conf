@@ -3,7 +3,7 @@ title = "Home"
 weight = 1
 +++
 
-{{% notice note %}} The <a href="/conf/program/">schedule</a> of the TLA+ Community Event 2020 has been posted! {{% /notice %}}
+{{% notice note %}} The <a href="/program/">schedule</a> of the TLA+ Community Event 2020 has been posted! {{% /notice %}}
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
@@ -12,13 +12,13 @@ TLA<sup>+</sup> is a formal language for specifying systems that is used in indu
 ### TLA+ Community Event?
 
 The objective of the TLA+ Community Events is to bring together practitioners and researchers interested in the use and further development of the TLA+ specification language and its associated tools.  Talks should present work of interest to users of TLA+ or PlusCal, such as:
-
+    
 * industrial and academic case studies
 * new tools for TLA+
 * innovative use of existing tools or reports on their shortcomings
 * use of TLA+ in education
 
-See the [schedule](/conf/program/) for the list of presentations.
+See the [schedule](/program/) for the list of presentations.
 
 
 The workshop will be a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place virtuall on [Thursday 15., Friday 16. and Monday 19. of October 2020](/conf/program/).  For information about the registration, please go to the [DISC 2020 website](http://www.disc-conference.org/wp/disc2020/registration/) (registration for *participants* will be free of charge).
