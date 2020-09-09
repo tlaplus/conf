@@ -3,7 +3,7 @@ title = "Home"
 weight = 1
 +++
 
-{{% notice note %}} Keynote: <a href="https://twitter.com/dharmashukla">Dharma</a> <a href="https://www.linkedin.com/in/dharmashukla/">Shukla</a> - Technical Fellow at Microsoft and Founder of Azure Cosmos DB - will share his insights on how TLA+ helps Microsoft build planetary-scale systems! {{% /notice %}}
+{{% notice note %}} The <a href="/conf/program/">schedule</a> of the TLA+ Community Event 2020 has been posted! {{% /notice %}}
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
@@ -18,19 +18,18 @@ The objective of the TLA+ Community Events is to bring together practitioners an
 * innovative use of existing tools or reports on their shortcomings
 * use of TLA+ in education
 
-There will be no formal proceedings, and presentations of relevant work published elsewhere are welcome. Presentations - of either 20 or 30 minutes - must be recorded and submitted before the event for early distribution. After the official airing of a presentation during the event, a (synchronous) Q&A session will discuss the presentation.
+See the [schedule](/conf/program/) for the list of presentations.
 
-Proposals for 20 or 30 minutes presentations, with a short (1-2 page) abstract summarizing the content, should be sent by August 31, 2020, to tla2020 @ tlapl.us. Notification will be posted soon after.
 
-The workshop is planned as a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place on-line in mid-October 2020 (exact date and format to be announced).
-
-#### When?
-
-mid-October (exact date to be announced)
+The workshop will be a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place virtuall on [Thursday 15., Friday 16. and Monday 19. of October 2020](/conf/program/).  For information about the registration, please go to the [DISC 2020 website](http://www.disc-conference.org/wp/disc2020/registration/) (registration for *participants* will be free of charge).
 
 #### Where?
 
-Virtual
+Virtual: 
+
+* Discussions: [Mattermost](http://talk.tlapl.us) (already up and running)
+* Long-talks: Youtube (details to follow)
+* Presentation: Zoom (details to follow)
 
 #### Who?
 

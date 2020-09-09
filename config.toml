@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "http://conf.tlapl.us"
+baseurl = "http://conf.tlapl.us/"
 title = "TLA+ Community Event & Conference"
 theme = "hugo-theme-learn"
 pygmentsUseClassic = true

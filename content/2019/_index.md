@@ -1,9 +1,9 @@
 +++
-title = "Conf2019"
+title = "2019 - TLA+ Conf"
 weight = 200
 +++
 
-# Program Conf2019
+# TLA+ Conf 2019
 
 time  | title  | speaker | slides | recording |
 ------|--------|---------|--------|------------
