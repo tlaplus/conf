@@ -21,7 +21,7 @@ The objective of the TLA+ Community Events is to bring together practitioners an
 See the [schedule](/program/) for the list of presentations.
 
 
-The workshop will be a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place virtuall on [Thursday 15., Friday 16. and Monday 19. of October 2020](/conf/program/).  For information about the registration, please go to the [DISC 2020 website](http://www.disc-conference.org/wp/disc2020/registration/) (registration for *participants* will be free of charge).
+The workshop will be a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place virtuall on [Thursday 15., Friday 16. and Monday 19. of October 2020](/program/).  For information about the registration, please go to the [DISC 2020 website](http://www.disc-conference.org/wp/disc2020/registration/) (registration for *participants* will be free of charge).
 
 #### Where?
 
