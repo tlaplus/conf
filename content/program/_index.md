@@ -35,4 +35,7 @@ time (CEST)  | title  | speaker | slide | recording |
 5:55pm | [Type Inference for TLA+ in Apalache](/2020/07-Kukovec_and_Konnov-Type_Inference_for_TLA_+_in_Apalache.pdf) | [Jure Kukovec](https://informatics.tuwien.ac.at/people/jure-kukovec), [Igor Konnov](https://www.linkedin.com/in/igor-konnov-7683241/) |  |  |
 6:20pm | Discussion and wrap-up |
 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=cm9laDdubDZsajZsZWw1M2tyb2txcmtkY2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000" style="border:solid 1px #777" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
+
 v1.0
