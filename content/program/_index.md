@@ -14,7 +14,7 @@ time (CEST)  | title  | speaker | slide | recording |
 5:40pm | Keynote: TLA+ at Microsoft to build planetary-scale systems | [Dharma Shukla](https://www.linkedin.com/in/dharmashukla/) |  |  |
  | |
  |  | *Friday, October 16* |
-3:00pm | [Composition Capers (TLA+ Truffle)](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers.pdf) | [Ron Pressler](https://www.linkedin.com/in/ron-pressler-a279032/) |  |  |
+3:00pm | [Conjunction Capers (TLA+ Truffle)](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers.pdf) | [Ron Pressler](https://pron.github.io/) |  |  |
 3:25pm | [Bridging the Verifiability Gap: Why We Need More From Our Specs and How We Can Get It](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap.pdf) | [Jordan Haltermann](https://www.linkedin.com/in/jordanhalterman/) |  |  |
 3:50pm | *break* | 
 4:15pm | [A formal model of cache speculation side channels](/2020/01-Catalin_Marinas-A_Formal_Model_of_Cache_Speculation_Side-Channels.pdf) | [Catalin Marinas](https://www.linkedin.com/in/cmarinas/) |  |  |
