@@ -15,7 +15,7 @@ time (CEST)  | title  | speaker | slide | recording |
  | |
  |  | *Friday, October 16* |
 3:00pm | [Conjunction Capers (TLA+ Truffle)](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers.pdf) | [Ron Pressler](https://pron.github.io/) | [pdf](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers-Slides.pdf) | [video](https://youtu.be/TP3SY0EUV2A) |
-3:25pm | [Bridging the Verifiability Gap: Why We Need More From Our Specs and How We Can Get It](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap.pdf) | [Jordan Haltermann](https://www.linkedin.com/in/jordanhalterman/) |  |  |
+3:25pm | [Bridging the Verifiability Gap: Why We Need More From Our Specs and How We Can Get It](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap.pdf) | [Jordan Haltermann](https://www.linkedin.com/in/jordanhalterman/) |  | [video](https://youtu.be/itcj9j2yWQo) |
 3:50pm | *break* | 
 4:15pm | [A formal model of cache speculation side channels](/2020/01-Catalin_Marinas-A_Formal_Model_of_Cache_Speculation_Side-Channels.pdf) | [Catalin Marinas](https://www.linkedin.com/in/cmarinas/) | [pdf](/2020/01-Catalin_Marinas-A_Formal_Model_of_Cache_Speculation_Side-Channels-Slides.pdf)  | [video](https://youtu.be/Le1R9P5H9C4) |
 4:40pm | [Exploring and improving the design of Abaco](/2020/12-Padhy_and_Stubbs-Exploring_and_Improving_Design_of_Abaco_with_TLA+.pdf) | [Smruti Padhy](https://www.tacc.utexas.edu/about/directory/smruti-padhy), [Joe Stubbs](https://www.tacc.utexas.edu/about/directory/joe-stubbs) |  | [video](https://youtu.be/8Ft_WKdv54g) |
