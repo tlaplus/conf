@@ -5,6 +5,10 @@ weight = 75
 
 # TLA+ Community Event 2020
 
+
+{{% notice note %}} Instructions how to attend the talks via Zoom are at <a href="http://www.disc-conference.org/wp/disc2020/for-participants/">http://www.disc-conference.org/wp/disc2020/for-participants/</a> (you've received the password in an email with subject <i>"DISC 2020: Zoom meetings and password"</i>).  The virtual hallway and channels to ask the speakers questions, can be found at <a href="http://talk.tlapl.us">http://talk.tlapl.us</a>.{{% /notice %}}
+
+
 All times in [Berlin time = Central European Summer Time = CEST = UTC+02:00](https://www.timeanddate.com/time/zones/cest).
 
 time (CEST)  | title  | speaker | slide | recording |
