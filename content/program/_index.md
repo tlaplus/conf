@@ -15,7 +15,7 @@ time (CEST)  | title  | speaker | slide | recording |
 ------|--------|---------|--------|------------
  |  | *Thursday, October 15* |
 5:30pm | Welcome |  |  |  |
-5:40pm | Keynote: TLA+ at Microsoft to build planetary-scale systems | [Dharma Shukla](https://www.linkedin.com/in/dharmashukla/) |  |  |
+5:40pm | Keynote: TLA+ at Microsoft to build planetary-scale systems | [Dharma Shukla](https://www.linkedin.com/in/dharmashukla/) | [ppt](/2020/DharmaShukla-TLAKeynote.pptx) |  |
  | |
  |  | *Friday, October 16* |
 3:00pm | [Conjunction Capers (TLA+ Truffle)](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers.pdf) | [Ron Pressler](https://pron.github.io/) | [pdf](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers-Slides.pdf) | [video](https://youtu.be/TP3SY0EUV2A) |
