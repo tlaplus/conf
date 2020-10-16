@@ -19,13 +19,13 @@ time (CEST)  | title  | speaker | slide | recording |
  | |
  |  | *Friday, October 16* |
 3:00pm | [Conjunction Capers (TLA+ Truffle)](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers.pdf) | [Ron Pressler](https://pron.github.io/) | [pdf](/2020/04-Ron_Pressler-TLA+_Truffle_Composition_Capers-Slides.pdf) | [video](https://youtu.be/TP3SY0EUV2A) |
-3:25pm | [Bridging the Verifiability Gap: Why We Need More From Our Specs and How We Can Get It](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap.pdf) | [Jordan Haltermann](https://www.linkedin.com/in/jordanhalterman/) | [pdf](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap-Slides.pdf) | [video](https://youtu.be/itcj9j2yWQo) |
+3:25pm | [Bridging the Verifiability Gap: Why We Need More From Our Specs and How We Can Get It](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap.pdf) | [Jordan Halterman](https://www.linkedin.com/in/jordanhalterman/) | [pdf](/2020/13-Jordan_Halterman_Bridging_the_verifiability_gap-Slides.pdf) | [video](https://youtu.be/itcj9j2yWQo) |
 3:50pm | *break* | 
 4:15pm | [A formal model of cache speculation side channels](/2020/01-Catalin_Marinas-A_Formal_Model_of_Cache_Speculation_Side-Channels.pdf) | [Catalin Marinas](https://www.linkedin.com/in/cmarinas/) | [pdf](/2020/01-Catalin_Marinas-A_Formal_Model_of_Cache_Speculation_Side-Channels-Slides.pdf)  | [video](https://youtu.be/Le1R9P5H9C4) |
 4:40pm | [Exploring and improving the design of Abaco](/2020/12-Padhy_and_Stubbs-Exploring_and_Improving_Design_of_Abaco_with_TLA+.pdf) | [Smruti Padhy](https://www.tacc.utexas.edu/about/directory/smruti-padhy), [Joe Stubbs](https://www.tacc.utexas.edu/about/directory/joe-stubbs) | [pdf](/2020/12-Padhy_and_Stubbs-Exploring_and_Improving_Design_of_Abaco_with_TLA+-Slides.pdf) | [video](https://youtu.be/8Ft_WKdv54g) |
 5:05pm | *break* | 
 5:30pm | [eXtreme Modelling in Practice](/2020/02-Davis_et_al-eXtreme_Modelling_in_Practice.pdf) ([paper](http://www.vldb.org/pvldb/vol13/p1346-davis.pdf)) | [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/), [Max Hirschhorn](https://www.linkedin.com/in/maxhirschhorn/), [Judah Schvimer](https://www.linkedin.com/in/judahschvimer/) |  | [video](https://youtu.be/IIGzXX72weQ)  |
-5:55pm | [Kayfabe – model-based program testing](/2020/11-Star_Dorminey-Kayfabe_Model_based_program_testing_with_TLC.pdf) | [Star Dorminey]() |  |  |
+5:55pm | [Kayfabe – model-based program testing](/2020/11-Star_Dorminey-Kayfabe_Model_based_program_testing_with_TLC.pdf) | [Star Dorminey]() | [ppt](/2020/11-Star_Dorminey-Kayfabe_Model_based_program_testing_with_TLC-Slides.pptx) | [video](https://www.youtube.com/watch?v=lj31oIaYSj4) |
 6:20pm | [Model-based testing with TLA+ and Apalache](/2020/09-Kuprianov_and_Konnov-Model-based_testing_with_TLA_+_and_Apalache.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/), [Igor Konnov](https://www.linkedin.com/in/igor-konnov-7683241/) |  | [video](https://youtu.be/aveoIMphzW8) |
  | |
  |  | *Monday, October 19* |
