@@ -2,41 +2,41 @@
 title = "Home"
 weight = 1
 +++
-
+<!--
 {{% notice note %}} The <a href="/2020/">schedule</a> of the TLA+ Community Event 2020 has been posted! {{% /notice %}}
+-->
 
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
-TLA<sup>+</sup> is a formal language for specifying systems that is used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon-excerpt.html) and [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/).
+TLA<sup>+</sup> is a formal language for specifying systems used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon-excerpt.html) and [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/).
 
-### TLA+ Community Event?
+### TLA+ Conference?
 
-The objective of the TLA+ Community Events is to bring together practitioners and researchers interested in the use and further development of the TLA+ specification language and its associated tools.  Talks should present work of interest to users of TLA+ or PlusCal, such as:
-    
-* industrial and academic case studies
-* new tools for TLA+
-* innovative use of existing tools or reports on their shortcomings
-* use of TLA+ in education
+TLA<sup>+</sup> conference brings together industrial and academic users of the TLA<sup>+</sup> specification language and its associated tools; it complements the biannual [TLA<sup>+</sup> workshops](http://tla2018.loria.fr/) with a stronger focus on applying TLA<sup>+</sup>. Talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
 
-See the [schedule](/2020/) for the list of presentations.
+* Industrial and academic case studies
+* Use of the TLA<sup>+</sup> tools or reports on their shortcomings
+* Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
+* Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
+#### When?
 
-The workshop will be a satellite of the [Symposium on Distributed Computing](http://www.disc-conference.org/wp/disc2020/) and will take place virtuall on [Thursday 15., Friday 16. and Monday 19. of October 2020](/2020/).  For information about the registration, please go to the [DISC 2020 website](http://www.disc-conference.org/wp/disc2020/registration/) (registration for *participants* will be free of charge).
+Proposals for presentations, with a one-page summary of the content, should be sent by July 01, 2021 to <<tla2021>> \o <<@>> \o <<tlapl.us>>. Notification of acceptance will be given by July 15, 2021. The presentations given at the event will be made available on the web.
 
 #### Where?
 
-Virtual: 
+TLA+ conf will be an in-person(!) event taking place in St. Louis, MO, USA, on September 30, 2021 as part of Strange Loop 2021. Participants are required to register through the [Strange Loop web site](https://thestrangeloop.com/register.html).
 
-* Discussions: [Mattermost](http://talk.tlapl.us) (already up and running)
-* Long-talks: Youtube (details to follow)
-* Presentation: Zoom (details to follow)
+Due to the pandemic, entry into the US is still barred for some travelers. While we hope for most restrictions to be lifted by the time of the conference and generally prefer in-person presentations, *speakers* unable to attend due to travel restrictions will be allowed to present virtually.
 
 #### Who?
 
-Organizers: Leslie Lamport, Stephan Merz, Markus Kuppe
+Program Committee: Stephan Merz, Igor Konnov,  Markus Kuppe, and Hillel Wayne
 
-#### Previous TLA+ Community Events
+#### Previous TLA+ Confs & Community Events
 
+* http://conf.tlapl.us/2020/
+* http://conf.tlapl.us/2019/
 * http://tla2018.loria.fr/
 * http://tla2014.loria.fr/
 * http://tla2012.loria.fr/
