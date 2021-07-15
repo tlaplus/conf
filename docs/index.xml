@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>AndrewHelwer</title>
+      <link>http://conf.tlapl.us/2021/andrewhelwer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://conf.tlapl.us/2021/andrewhelwer/</guid>
+      <description>Semantic highlighting in TLA+ Andrew Helwer Syntax highlighting uses text color and formatting to communicate useful information to users of a formal language; this is generally accomplished with regular expressions identifying keywords, literals, and common functions. There has been a recent trend toward using more powerful grammars that fully parse languages and expose complex semantic information in highlighting. This talk details the recent development of such a grammar for TLA+ using tree-sitter, an error-tolerant incremental parser generator.</description>
+    </item>
+    
+    <item>
       <title>DavidMcNeil</title>
       <link>http://conf.tlapl.us/2019/davidmcneil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +38,15 @@
     </item>
     
     <item>
+      <title>HillelWayne2021</title>
+      <link>http://conf.tlapl.us/2021/hillelwayne2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://conf.tlapl.us/2021/hillelwayne2021/</guid>
+      <description>TLA+ Tiramisu Hillel Wayne </description>
+    </item>
+    
+    <item>
       <title>IvanBeschastnikh</title>
       <link>http://conf.tlapl.us/2019/ivanbeschastnikh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,6 +62,16 @@
       
       <guid>http://conf.tlapl.us/2019/jayparlar/</guid>
       <description>Alloy for TLA+ Users Jay Parlar Okta Alloy (http://alloytools.org/) is a modelling language for software systems, out of MIT. Like TLA+, it comes bundled with an IDE and a model checker. Its mathematical foundation is also based on sets and predicate logic. Where Alloy differs from TLA+ is in its &amp;ldquo;visualizer&amp;rdquo;, its use of SAT solvers, and its focus on modelling relational data instead of concurrent systems. This talk provides a high level overview of Alloy for a typical TLA+ user, and show instances where one might choose Alloy over TLA+, and vice-versa, and more importantly, why it&amp;rsquo;s hugely valuable to know both systems.</description>
+    </item>
+    
+    <item>
+      <title>MikeLusignan</title>
+      <link>http://conf.tlapl.us/2021/mikelusignan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://conf.tlapl.us/2021/mikelusignan/</guid>
+      <description>What can you do with a few days? Mike Lusignan Crowdstrike TLA+ is an indispensable tool for maintaining correctness in highly complex, concurrent environments. Why isn&amp;rsquo;t it used more in industry? One of the objections levied in general at formal methods is that they require a substantial investment in time, in opposition to other software development activities. Our experience at CrowdStrike is that this simply is not true.
+In this talk, I&amp;rsquo;ll review past and ongoing experiences with TLA+ at CrowdStrike.</description>
     </item>
     
     <item>
