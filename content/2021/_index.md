@@ -14,7 +14,7 @@ time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | spe
 10:45 | [TLA+ Tiramisu]({{< ref "/HillelWayne2021.md" >}}) | [Hillel Wayne](https://www.linkedin.com/in/hillel-wayne-94a7025b/) |  |  |
 _11:30_ |	*Lunch* |
 13:00 | [TLA+ Specification and Model Checking of the Agoric Smart Contracts Kernel](/2021/AndreyKupriyanov.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/) |  |  |
-13:45 | [Verification and Visualization of a Consensus Algorithm using TLA+](/2021/AfonsodasNevesFernandes.pdf) | [Afonso das Neves Fernandes](https://www.inesctec.pt/en/people/afonso-neves-fernandes) |  |  |
+13:45 | [Verification and Visualization of a Consensus Algorithm using TLA+](/2021/AfonsodasNevesFernandes.pdf) | [Afonso das Neves Fernandes](https://www.linkedin.com/in/afonsonf/) |  |  |
 _14:30_ | *Coffee Break* |
 15:15 | [Interactive TLA+](/2021/JesseDavis.pdf) | [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/) & [Samyukta Lanka](https://www.linkedin.com/in/samyukta-lanka-bba7b689) |  |   |
 16:00 | [Elixir Code Generation from TLA + specifications](/2021/GabrielaMoreiraMafra.pdf) | [Gabriela Moreira Mafra](https://br.linkedin.com/in/gabriela-moreira-mafra) |  |  |
