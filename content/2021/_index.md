@@ -16,7 +16,7 @@ _11:30_ |	*Lunch* |
 13:00 | [TLA+ Specification and Model Checking of the Agoric Smart Contracts Kernel](/2021/AndreyKupriyanov.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/) |  |  |
 13:45 | [Verification and Visualization of a Consensus Algorithm using TLA+](/2021/AfonsodasNevesFernandes.pdf) | [Afonso das Neves Fernandes](https://www.linkedin.com/in/afonsonf/) |  |  |
 _14:30_ | *Coffee Break* |
-15:15 | [Interactive TLA+](/2021/JesseDavis.pdf) | [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/) & [Samyukta Lanka](https://www.linkedin.com/in/samyukta-lanka-bba7b689) |  |   |
+15:15 | [Interactive TLA+]({{< ref "/JesseSamy.md" >}})| [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/) & [Samyukta Lanka](https://www.linkedin.com/in/samyukta-lanka-bba7b689) |  |   |
 16:00 | [Elixir Code Generation from TLA + specifications](/2021/GabrielaMoreiraMafra.pdf) | [Gabriela Moreira Mafra](https://br.linkedin.com/in/gabriela-moreira-mafra) |  |  |
 16:45 | [Semantic Highlighting in TLA+]({{< ref "/AndrewHelwer.md" >}}) | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) |  |  |
 17:30 | End of the conference |

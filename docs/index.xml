@@ -65,6 +65,15 @@
     </item>
     
     <item>
+      <title>JessySamy</title>
+      <link>http://conf.tlapl.us/2021/jessesamy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://conf.tlapl.us/2021/jessesamy/</guid>
+      <description>Interactive TLA+ Jesse Davis &amp;amp; Samy Lanka Learning TLA+ is a challenge for industrial programmers, who are accustomed to exploring their code&amp;rsquo;s behavior with a debugger and print statements, more than reasoning about it like mathematicians. Subtle mistakes in a specification can lead to a trivially-true specification. As Leslie Lamport says, &amp;ldquo;Always be suspicious of success.&amp;rdquo; Specifiers can catch such mistakes by exploring the spec&amp;rsquo;s behavior interactively, and they can gain a more intuitive understanding of TLA+.</description>
+    </item>
+    
+    <item>
       <title>MikeLusignan</title>
       <link>http://conf.tlapl.us/2021/mikelusignan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
