@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://conf.tlapl.us/2021/hillelwayne2021/</guid>
-      <description>TLA+ Tiramisu Hillel Wayne TBD</description>
+      <description>TLA+ Tiramisu Hillel Wayne There&amp;rsquo;s a gap between knowing how to write specifications and knowing how to write them well. Much of this gap is from the &amp;ldquo;small stuff&amp;rdquo;: all of the little tips, tricks, and traps that experts implicitly know but beginners rarely learn. Things like &amp;ldquo;the best way to represent nested state&amp;rdquo; or &amp;ldquo;how to debug a slow model.&amp;rdquo; This talk will be a general introduction to intermediate-level techniques.</description>
     </item>
     
     <item>
