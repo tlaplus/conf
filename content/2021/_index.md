@@ -10,7 +10,7 @@ time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | spe
 ------|--------|---------|--------|------------
 09:00 | Welcome & Opening Announcements | |  |  |
 09:10 | [Keynote: What can you do with a few days?]({{< ref "/MikeLusignan.md" >}}) | [Mike Lusignan]() |  |  |
-10:00 | [Verifying Payment Channels with TLA+](/2021/MatthiasGrundmann.pdf) | [Matthias Grundmann](https://www.dsn.kastel.kit.edu/english/staff_grundmann.php) (r) |  | [video](https://youtu.be/D48A3Jt5QAU) |
+10:00 | [Verifying Payment Channels with TLA+](/2021/MatthiasGrundmann.pdf) | [Matthias Grundmann](https://www.dsn.kastel.kit.edu/english/staff_grundmann.php) (r) | [pdf](/2021/MatthiasGrundmann-talk.pdf) | [video](https://www.youtube.com/watch?v=k6UkZdI70w8) |
 10:45 | [TLA+ Tiramisu]({{< ref "/HillelWayne2021.md" >}}) | [Hillel Wayne](https://www.linkedin.com/in/hillel-wayne-94a7025b/) |  |  |
 _11:30_ |	*Lunch* |
 13:00 | [TLA+ Specification and Model Checking of the Agoric Smart Contracts Kernel](/2021/AndreyKupriyanov.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/) & [Daniel Tisdall](https://www.linkedin.com/in/daniel-tisdall-a3594021b/) (r) |  |  |
