@@ -17,7 +17,7 @@ _11:30_ |	*Lunch* |
 13:45 | [Verification and Visualization of a Consensus Algorithm using TLA+](/2021/AfonsodasNevesFernandes.pdf) | [Afonso das Neves Fernandes](https://www.linkedin.com/in/afonsonf/) (r) | [pdf](/2021/AfonsodasNevesVernandes-talk.pdf) | [video](https://youtu.be/4bPFgw5SB9I) |
 _14:30_ | *Coffee Break* |
 15:15 | [Interactive TLA+]({{< ref "/JesseSamy.md" >}})| [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/) & [Samyukta Lanka](https://www.linkedin.com/in/samyukta-lanka-bba7b689) |  |   |
-16:00 | [Elixir Code Generation from TLA + specifications](/2021/GabrielaMoreiraMafra.pdf) | [Gabriela Moreira Mafra](https://br.linkedin.com/in/gabriela-moreira-mafra) (r) |  |  |
+16:00 | [Elixir Code Generation from TLA + specifications](/2021/GabrielaMoreiraMafra.pdf) | [Gabriela Moreira Mafra](https://br.linkedin.com/in/gabriela-moreira-mafra) (r) |  | [video](https://youtu.be/-GCelr1KEhY) |
 16:45 | [Semantic Highlighting in TLA+]({{< ref "/AndrewHelwer.md" >}}) | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) |  |  |
 17:30 | End of the conference |
 
