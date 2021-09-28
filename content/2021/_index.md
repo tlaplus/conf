@@ -13,7 +13,7 @@ time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | spe
 10:00 | [Verifying Payment Channels with TLA+](/2021/MatthiasGrundmann.pdf) | [Matthias Grundmann](https://www.dsn.kastel.kit.edu/english/staff_grundmann.php) (r) | [pdf](/2021/MatthiasGrundmann-talk.pdf) | [video](https://www.youtube.com/watch?v=k6UkZdI70w8) |
 10:45 | [TLA+ Tiramisu]({{< ref "/HillelWayne2021.md" >}}) | [Hillel Wayne](https://www.linkedin.com/in/hillel-wayne-94a7025b/) |  |  |
 _11:30_ |	*Lunch* |
-13:00 | [TLA+ Specification and Model Checking of the Agoric Smart Contracts Kernel](/2021/AndreyKupriyanov.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/) & [Daniel Tisdall](https://www.linkedin.com/in/daniel-tisdall-a3594021b/) (r) |  |  |
+13:00 | [TLA+ Specification and Model Checking of the Agoric Smart Contracts Kernel](/2021/AndreyKupriyanov.pdf) | [Andrey Kupriyanov](https://www.linkedin.com/in/andrey-kupriyanov-3b43247b/) & [Daniel Tisdall](https://www.linkedin.com/in/daniel-tisdall-a3594021b/) (r) | [pdf](AndreyKurpiyanovDanTisdall-talk.pdf) | [video](https://youtu.be/N7tiBliPlJM) |
 13:45 | [Verification and Visualization of a Consensus Algorithm using TLA+](/2021/AfonsodasNevesFernandes.pdf) | [Afonso das Neves Fernandes](https://www.linkedin.com/in/afonsonf/) (r) | [pdf](/2021/AfonsodasNevesVernandes-talk.pdf) | [video](https://youtu.be/4bPFgw5SB9I) |
 _14:30_ | *Coffee Break* |
 15:15 | [Interactive TLA+]({{< ref "/JesseSamy.md" >}})| [Jesse Davis](https://www.linkedin.com/in/ajessejiryudavis/) & [Samyukta Lanka](https://www.linkedin.com/in/samyukta-lanka-bba7b689) |  |   |
