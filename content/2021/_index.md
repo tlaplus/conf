@@ -21,6 +21,3 @@ _14:30_ | *Coffee Break* |
 16:00 | [Elixir Code Generation from TLA + specifications](/2021/GabrielaMoreiraMafra.pdf) | [Gabriela Moreira Mafra](https://br.linkedin.com/in/gabriela-moreira-mafra) (r) | [pdf](/2021/GabrielaMoreiraMafra-talk.pdf) | [video](https://youtu.be/-GCelr1KEhY) |
 16:45 | [Semantic Highlighting in TLA+]({{< ref "/AndrewHelwer.md" >}}) | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) |  |  |
 17:30 | End of the conference |
-
-
-
