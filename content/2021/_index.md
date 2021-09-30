@@ -22,7 +22,5 @@ _14:30_ | *Coffee Break* |
 16:45 | [Semantic Highlighting in TLA+]({{< ref "/AndrewHelwer.md" >}}) | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) |  |  |
 17:30 | End of the conference |
 
-v0.2
-
 
 
