@@ -19,22 +19,9 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
-#### When?
-
-Proposals for presentations, with a one-page summary of the content, should be sent by July 01, 2021 to <<tla2021>> \o <<@>> \o <<tlapl.us>>. Notification of acceptance will be given by July 15, 2021. The presentations given at the event will be made available on the web.
-
-#### Where?
-
-TLA+ conf will be an in-person(!) event taking place in St. Louis, MO, USA, on September 30, 2021 as part of Strange Loop 2021. Participants are required to register through the [Strange Loop web site](https://thestrangeloop.com/register.html).
-
-Due to the pandemic, entry into the US is still barred for some travelers. While we hope for most restrictions to be lifted by the time of the conference and generally prefer in-person presentations, *speakers* unable to attend due to travel restrictions will be allowed to present virtually.
-
-#### Who?
-
-Program Committee: Stephan Merz, Igor Konnov,  Markus Kuppe, and Hillel Wayne
-
 #### Previous TLA+ Confs & Community Events
 
+* http://conf.tlapl.us/2021/
 * http://conf.tlapl.us/2020/
 * http://conf.tlapl.us/2019/
 * http://tla2018.loria.fr/
