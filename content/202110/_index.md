@@ -5,7 +5,7 @@ weight = 69
 
 # TLA+ Workshop 2021
 
-A [workshop](http://www.disc-conference.org/wp/disc2021/workshops/) of [DISC](http://www.disc-conference.org/wp/disc2021/)
+A [workshop](http://www.disc-conference.org/wp/disc2021/workshops/) of [DISC](http://www.disc-conference.org/wp/disc2021/).  Online attendance is free of charge but [requires prior registration](https://docs.google.com/forms/d/e/1FAIpQLSfUPKHC4YPKvVdQf0AyU83_5EJKfAOp3qvUgnRzFE2FQ9eJhA/viewform).
 
 time ([CEST](https://www.timeanddate.com/time/zones/cest))  | title  | speaker | slides | recording |
 ------|--------|---------|--------|------------
