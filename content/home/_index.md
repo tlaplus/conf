@@ -19,6 +19,8 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
+Program Committee Chair: [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), Conference Chair: [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
+
 #### Previous TLA+ Confs & Community Events
 
 * http://conf.tlapl.us/2021/
