@@ -21,7 +21,11 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 
 Program Committee Chair: [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), Conference Chair: [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
 
-#### Previous TLA+ Confs & Community Events
+#### Code of Conduct
+
+TLA+ conf agrees with and follows [Strage Loop's Code of Conduct](https://www.thestrangeloop.com/policies.html)!
+
+### Previous TLA+ Confs & Community Events
 
 * http://conf.tlapl.us/2021/
 * http://conf.tlapl.us/2020/
