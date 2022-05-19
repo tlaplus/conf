@@ -19,7 +19,17 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
+Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by July 01, 2022 to «tla2022» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but the recordings will be made available on the web.  Presentations of relevant work published elsewhere are welcome.
+
 Program Committee Chair: [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), Conference Chair: [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
+
+#### When & Where?
+
+TLA+ conf will be an in-person(!) event in St. Louis, MO, USA, on September 22, 2022 co-located with Strange Loop 2022.  Participants are required to register through the Strange Loop website at [https://ti.to/strange-loop/2022](https://ti.to/strange-loop/2022).  Speakers at TLA+ Conf will also receive a free ticket for the Strange Loop conference.
+
+#### TLA+ Class
+
+Hillel Wayne hosts a [TLA+ training class on September 21, 2022](https://www.thestrangeloop.com/2022/tlaplus-workshop.html).
 
 #### Code of Conduct
 
