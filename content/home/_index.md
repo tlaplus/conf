@@ -19,7 +19,7 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
-Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by July 01, 2022 to «tla2022» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but the recordings will be made available on the web.  Presentations of relevant work published elsewhere are welcome.
+Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by July 01, 2022 to «tla2022» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but the recordings will be made available on the web.  Presentations of relevant work published elsewhere are welcome.  Speakers at the TLA+ Conference will get a free registration for both the TLA+ conference (Sept 22) as well as the subsequent Strange Loop program.
 
 Program Committee Chair: [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), Conference Chair: [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
 
