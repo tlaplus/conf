@@ -33,7 +33,7 @@ Hillel Wayne hosts a [TLA+ training class on September 21, 2022](https://www.the
 
 #### Code of Conduct
 
-TLA+ conf agrees with and follows [Strage Loop's Code of Conduct](https://www.thestrangeloop.com/policies.html)!
+TLA+ conf agrees with and follows [Strange Loop's Code of Conduct](https://www.thestrangeloop.com/policies.html)!
 
 ### Previous TLA+ Confs & Community Events
 
