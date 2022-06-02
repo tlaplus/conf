@@ -21,7 +21,19 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 
 Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by July 01, 2022 to «tla2022» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but the recordings will be made available on the web.  Presentations of relevant work published elsewhere are welcome.  Speakers at the TLA+ Conference will get a free registration for both the TLA+ conference (Sept 22) as well as the subsequent Strange Loop program.
 
-Program Committee Chair: [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), Conference Chair: [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
+Program Committee:
+
+* [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), AWS (chair)
+* [Dimitra Giannakopoulou](https://www.linkedin.com/in/dimitra-giannakopoulou-4bba273/), AWS
+* [Stephan Merz](https://members.loria.fr/Stephan.Merz/), Inria
+* [Igor Konnov](https://konnov.github.io), Informal Systems
+* [Joshua Rowe](https://github.com/JoshuaRowePhantom), Microsoft
+* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), Okta
+* [Ron Pressler](https://twitter.com/pressron), Oracle
+
+Conference Chair: 
+
+[Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
 
 #### When & Where?
 
