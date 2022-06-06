@@ -28,7 +28,7 @@ Program Committee:
 * [Stephan Merz](https://members.loria.fr/Stephan.Merz/), Inria
 * [Igor Konnov](https://konnov.github.io), Informal Systems
 * [Joshua Rowe](https://github.com/JoshuaRowePhantom), Microsoft
-* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), Okta
+* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), CrowdStrike
 * [Ron Pressler](https://twitter.com/pressron), Oracle
 
 Conference Chair: 
