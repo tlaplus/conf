@@ -25,10 +25,11 @@ Program Committee:
 
 * [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), AWS (chair)
 * [Dimitra Giannakopoulou](https://www.linkedin.com/in/dimitra-giannakopoulou-4bba273/), AWS
+* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), CrowdStrike
 * [Stephan Merz](https://members.loria.fr/Stephan.Merz/), Inria
 * [Igor Konnov](https://konnov.github.io), Informal Systems
 * [Joshua Rowe](https://github.com/JoshuaRowePhantom), Microsoft
-* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), CrowdStrike
+* [Lorin Hochstein](https://lorinhochstein.org), Netflix
 * [Ron Pressler](https://twitter.com/pressron), Oracle
 
 Conference Chair: 
