@@ -9,7 +9,7 @@ weight = 68
 time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | speaker | slides | recording |
 ------|--------|---------|--------|------------
 09:00 | Welcome & Opening Announcements | |  |  |
-09:10 | Keynote: [A decade of TLA+ at AWS.]({{< ref "/MarcBrooker.md" >}}) | [Marc Brooker](https://brooker.co.za/blog/) |  |  |
+09:10 |  |  |  |  |
 10:00 |  |  |  |  |
 11:00 |  |  |  |  |
 _12:00_ |	*Lunch* |
