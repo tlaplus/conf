@@ -1,6 +1,6 @@
 +++
 title = "2014 - TLA+ Community Event"
-weight = 300
+weight = 400
 +++
 
 # TLA+ Community Event 2014
