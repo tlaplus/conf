@@ -1,0 +1,11 @@
++++
+title = "Stephan Merz"
+hidden = true
+weight = 200
++++
+
+### A Tutorial Introduction to TLA+
+
+#### Stephan Merz
+
+TLA+ is a specification language that combines mathematical set theory for describing the static aspects of systems and the Temporal Logic of Actions for modeling the dynamic aspects. It is mainly intended for the specification of distributed and concurrent algorithms. This tutorial will give a hands-on introduction to the language and its tool support.
