@@ -9,7 +9,7 @@ weight = 68
 time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | speaker | slides | recording |
 ------|--------|---------|--------|------------
 08:55 | Welcome & Opening Announcements | |  |  |
-09:00 | Keynote: Formal Methods at Microsoft | [Nikolaj Bjørner](https://www.microsoft.com/en-us/research/people/nbjorner/) | [pdf](/2022/FormalMethodsAtMicrosoftNikolajBjornerTLAConference2022.pdf) |  |
+09:00 | Keynote: Formal Methods at Microsoft | [Nikolaj Bjørner](https://www.microsoft.com/en-us/research/people/nbjorner/) | [pdf](/2022/FormalMethodsAtMicrosoftNikolajBjornerTLAConference2022.pdf) | [video](https://www.youtube.com/watch?v=GEsvGGp0jyQ) |
 10:00 | [TLA+ for Nike Stores](/2022/sub1.pdf) | [Nathan Fairhurst](https://www.linkedin.com/in/nathanfairhurst/) |  |  |
 11:00 | [Specifying and checking an extension of Tendermint consensus in TLA+](/2022/sub6.pdf) | [Jure Kukovec](https://dblp.org/pid/219/2203.html), [Daniel Cason](https://www.linkedin.com/in/daniel-cason-49975921b/), [Igor Konnov](https://konnov.github.io), and [Josef Widder](https://ti.tuwien.ac.at/ecs/people/widder) | [pdf](/2022/PBTS.pdf) |  |
 _12:00_ |	*Lunch* |
