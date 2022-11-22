@@ -12,47 +12,21 @@ TLA<sup>+</sup> is a formal language for specifying systems used in industry and
 
 ### TLA+ Conference?
 
-TLA<sup>+</sup> conference brings together industrial and academic users of the TLA<sup>+</sup> specification language and its associated tools; it complements the biannual [TLA<sup>+</sup> workshops](http://tla2018.loria.fr/) with a stronger focus on applying TLA<sup>+</sup>. Talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
+The TLA<sup>+</sup> Community Event 2023 will be organized as a satellite of ETAPS 2023 (https://etaps.org) in Paris, on April 22, 2023. It brings together the community of users of the TLA<sup>+</sup> specification language and its associated tools. Talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
 
 * Industrial and academic case studies
 * Use of the TLA<sup>+</sup> tools or reports on their shortcomings
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
-Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by July 01, 2022 to «tla2022» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but the recordings will be made available on the web.  Presentations of relevant work published elsewhere are welcome.  Speakers at the TLA+ Conference will get a free registration for both the TLA+ conference (Sept 22) as well as the subsequent Strange Loop program.
-
-Program Committee:
-
-* [Murat Demirbas](https://cse.buffalo.edu/~demirbas/), AWS (chair)
-* [Dimitra Giannakopoulou](https://www.linkedin.com/in/dimitra-giannakopoulou-4bba273/), AWS
-* [Jay Parlar](https://www.linkedin.com/in/jay-parlar-ph-d-85365a3/), CrowdStrike
-* [Stephan Merz](https://members.loria.fr/Stephan.Merz/), Inria
-* [Igor Konnov](https://konnov.github.io), Informal Systems
-* [Joshua Rowe](https://github.com/JoshuaRowePhantom), Microsoft
-* [Lorin Hochstein](https://lorinhochstein.org), Netflix
-* [Ron Pressler](https://twitter.com/pressron), Oracle
-
-Conference Chair: 
-
-[Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
-
-#### When & Where?
-
-TLA+ conf will be an in-person(!) event in St. Louis, MO, USA, on September 22, 2022 co-located with Strange Loop 2022.  Participants are required to register through the Strange Loop website at [https://ti.to/strange-loop/2022](https://ti.to/strange-loop/2022).  Speakers at TLA+ Conf will also receive a free ticket for the Strange Loop conference.
-
-#### TLA+ Class
-
-Hillel Wayne hosts a [TLA+ training class on September 21, 2022](https://www.thestrangeloop.com/2022/tlaplus-workshop.html).
-
-#### Code of Conduct
-
-TLA+ conf agrees with and follows [Strange Loop's Code of Conduct](https://www.thestrangeloop.com/policies.html)!
+Please send a 1-2 page abstract summarizing the content of a 30-minute presentation by February 01, 2023 to «tla2023» \o «@» \o «tlapl.us». Notification of acceptance will be sent soon after. There will not be formal proceedings, but the recordings will be made available on the web. Presentations of relevant work published elsewhere are welcome. Speakers at the TLA<sup>+</sup> Community Meeting will be required to register for workshop participation at ETAPS 2023.
 
 ### Previous TLA+ Confs & Community Events
 
+* http://conf.tlapl.us/2022/
 * http://conf.tlapl.us/2021/
 * http://conf.tlapl.us/2020/
 * http://conf.tlapl.us/2019/
-* http://tla2018.loria.fr/
-* http://tla2014.loria.fr/
-* http://tla2012.loria.fr/
+* http://conf.tlapl.us/2018/
+* http://conf.tlapl.us/2014/
+* http://conf.tlapl.us/2012/
