@@ -12,14 +12,23 @@ TLA<sup>+</sup> is a formal language for specifying systems used in industry and
 
 ### TLA+ Conference?
 
-The TLA<sup>+</sup> Community Event 2023 will be organized as a satellite of ETAPS 2023 (https://etaps.org) in Paris, on April 22, 2023. It brings together the community of users of the TLA<sup>+</sup> specification language and its associated tools. Talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
+The TLA<sup>+</sup> Community Event 2023 will be organized as a satellite of [ETAPS 2023](https://etaps.org) in Paris, on April 22, 2023. It brings together the community of users of the TLA<sup>+</sup> specification language and its associated tools. Talks should present work of interest to users of TLA<sup>+</sup> or PlusCal, such as but not limited to:
 
 * Industrial and academic case studies
 * Use of the TLA<sup>+</sup> tools or reports on their shortcomings
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
-Please send a 1-2 page abstract summarizing the content of a 30-minute presentation by February 01, 2023 to «tla2023» \o «@» \o «tlapl.us». Notification of acceptance will be sent soon after. There will not be formal proceedings, but the recordings will be made available on the web. Presentations of relevant work published elsewhere are welcome. Speakers at the TLA<sup>+</sup> Community Meeting will be required to register for workshop participation at ETAPS 2023.
+Please send a 1-2 page abstract summarizing the content of a 30-minute presentation by January 20, 2023 to «tla2023» \o «@» \o «tlapl.us». Any additional material may appear in an appendix that will be read at the discretion of the program committee. Notification of acceptance will be sent soon after. There will not be formal proceedings, but the recordings will be made available on the web. Presentations of relevant work published elsewhere are welcome. Speakers at the TLA<sup>+</sup> Community Meeting will be required to register for workshop participation at ETAPS 2023.
+
+## Program Committee
+
+* Ivan Beschatnikh, University of British Columbia
+* Murat Demirbas, University at Buffalo, SUNY
+* Igor Konnov, Informal Systems
+* Markus Kuppe, Microsoft
+* Michael Leuschel, Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+* Stephan Merz, Inria Nancy - Grand Est
 
 ### Previous TLA+ Confs & Community Events
 
