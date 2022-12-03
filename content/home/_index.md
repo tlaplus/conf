@@ -19,7 +19,7 @@ The TLA<sup>+</sup> Community Event 2023 will be organized as a satellite of [ET
 * Novel tools & techniques exploiting TLA<sup>+</sup> and its existing tools
 * Teaching TLA<sup>+</sup> and its combination with other (software) engineering methodologies
 
-Please send a 1-2 page abstract summarizing the content of a 30-minute presentation by January 20, 2023 to «tla2023» \o «@» \o «tlapl.us». Any additional material may appear in an appendix that will be read at the discretion of the program committee. Notification of acceptance will be sent soon after. There will not be formal proceedings, but the recordings will be made available on the web. Presentations of relevant work published elsewhere are welcome. Speakers at the TLA<sup>+</sup> Community Meeting will be required to register for workshop participation at ETAPS 2023.
+Please send a 1-2 page abstract summarizing the content of a 30-minute presentation by January 20, 2023 to «tla2023» \o «@» \o «tlapl.us». Any additional material may appear in an appendix that will be read at the discretion of the program committee. Notification of acceptance will be sent soon after. There will not be formal proceedings, but accepted abstracts and slides of the presentations will be made available on the web. Presentations of relevant work published elsewhere are welcome. Speakers at the TLA<sup>+</sup> Community Meeting will be required to register for workshop participation at ETAPS 2023.
 
 ## Program Committee
 
