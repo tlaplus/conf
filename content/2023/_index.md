@@ -18,9 +18,8 @@ _12:30_ to _14:00_|	*Lunch* |
 13:40 to 14:15 | A Sound SMT Encoding for TLAPS | Rosalie Defourné (Inria) | | | |
 14:15 to 14:50 | [Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | | | |
 14:50 to 15:25 | TBA | Cezara Dragoi (AWS) | | | |
-15:25 to 16:00 | TBA | Ron Pressler (Oracle) | | | |
+15:25 to 16:00 | Discussion on the future of TLA+ | | |
 _16:00_ to _16:30_|	*Coffee* |
-16:30 to 18:00 | Discussion on the future of TLA+ | | |
 _18:00_ | *End of the conference* |
 
 
