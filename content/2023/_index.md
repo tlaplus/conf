@@ -13,13 +13,12 @@ _08:00_ to _09:00_| *Registration* |
 _10:00_ to _10:30_|	*Coffee* |
 10:30 to 12:00 | Tutorial on the TLA+ language and its support tools | Igor Konnov (Informal Systems) & Stephan Merz (Inria) | | | |
 _12:30_ to _14:00_|	*Lunch* |
-12:30 to 13:05 | From Hardware Designs to TLA+ Specifications for Timing Analysis of Real-Time Systems | Samira Ait Bensaid, Mihail Asavoae, Farhat Thabet, Mathieu Jan (CEA) | | | |
-13:05 to 13:40 | Quint: protocols as code in the logic of TLA+ | Shon Feder, Igor Konnov, Jure Kukovec, Gabriela Moreira, Thomas Pani (Informal Systems) | | | |
-13:40 to 14:15 | A Sound SMT Encoding for TLAPS | Rosalie Defourné (Inria) | | | |
-14:15 to 14:50 | [Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | | | |
-14:50 to 15:25 | [TLA+ at AWS: Past, Present, and Future]({{< ref "/DragoiSchwiderski.md" >}}) | Cezara Dragoi & Scarlet Schwiderski-Grosche (AWS) | | | |
-15:25 to 16:00 | Discussion on future work | | |
+14:00 to 14:40 | From Hardware Designs to TLA+ Specifications for Timing Analysis of Real-Time Systems | Samira Ait Bensaid, Mihail Asavoae, Farhat Thabet, Mathieu Jan (CEA) | | | |
+14:40 to 15:20 | Quint: protocols as code in the logic of TLA+ | Shon Feder, Igor Konnov, Jure Kukovec, Gabriela Moreira, Thomas Pani (Informal Systems) | | | |
+15:20 to 16:00 | A Sound SMT Encoding for TLAPS | Rosalie Defourné (Inria) | | | |
 _16:00_ to _16:30_|	*Coffee* |
+16:30 to 17:10 | [Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | | | |
+17:10 to 17:50 | [TLA+ at AWS: Past, Present, and Future]({{< ref "/DragoiSchwiderski.md" >}}) | Cezara Dragoi & Scarlet Schwiderski-Grosche (AWS) | | | |
 _18:00_ | *End of the conference* |
 
 
