@@ -9,7 +9,7 @@ weight = 67
 time ([CEST](https://www.timeanddate.com/time/zone/france/paris))  | title  | speaker | slides |
 ------|--------|---------|--------|------------
 _08:00_ to _09:00_| *Registration* |
-09:00 to 10:00 | Presentation of the TLA+ Foundation and of its founding members | Stephan Merz (Inria) | pdf({{< ref "/announcement.pdf" >}}) |
+09:00 to 10:00 | Presentation of the TLA+ Foundation and of its founding members | Stephan Merz (Inria) | pdf({{< ref "/announcement.pdf" >}}) | |
 _10:00_ to _10:30_|	*Coffee* |
 10:30 to 12:00 | Tutorial on the TLA+ language and its support tools | Igor Konnov (Informal Systems) & Stephan Merz (Inria) | | |
 _12:30_ to _14:00_|	*Lunch* |
