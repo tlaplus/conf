@@ -6,7 +6,7 @@ weight = 67
 # TLA+ Community Event 2023
 
 
-time ([CEST](https://www.timeanddate.com/time/zone/france/paris))  | title  | speaker | slides |
+time ([CEST](https://www.timeanddate.com/time/zone/france/paris))  | title  | speaker | slides | | 
 ------|--------|---------|--------|------------
 _08:00_ to _09:00_| *Registration* |
 09:00 to 10:00 | Presentation of the TLA+ Foundation and of its founding members | Stephan Merz (Inria) | pdf({{< ref "/announcement.pdf" >}}) | |
