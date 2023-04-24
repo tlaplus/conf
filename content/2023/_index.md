@@ -18,7 +18,7 @@ _12:30_ to _14:00_|	*Lunch* |
 15:20 to 16:00 | A Sound SMT Encoding for TLAPS | Rosalie Defourné (Inria) | | |
 _16:00_ to _16:30_|	*Coffee* |
 16:30 to 17:10 | [Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | | |
-17:10 to 17:50 | [TLA+ at AWS: Past, Present, and Future]({{< ref "/DragoiSchwiderski.md" >}}) | Cezara Dragoi & Scarlet Schwiderski-Grosche (AWS) | [pdf]({{< ref "/DragoiSchwiderski.pdf" >}}) | |
+17:10 to 17:50 | [TLA+ at AWS: Past, Present, and Future]({{< ref "/DragoiSchwiderski.md" >}}) | Cezara Dragoi & Scarlet Schwiderski-Grosche (AWS) | [pdf]("/2023/DragoiSchwiderski.pdf") | |
 _18:00_ | *End of the conference* |
 
 
