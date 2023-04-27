@@ -17,7 +17,8 @@ _12:30_ to _14:00_|	*Lunch* |
 14:40 to 15:20 | Quint: protocols as code in the logic of TLA+ | Shon Feder, Igor Konnov, Jure Kukovec, Gabriela Moreira, Thomas Pani (Informal Systems) | [pdf](/2023/Konnov.pdf) |
 15:20 to 16:00 | A Sound SMT Encoding for TLAPS | Rosalie Defourné (Inria) | [pdf](/2023/Defourne.pdf) |
 _16:00_ to _16:30_|	*Coffee* |
-16:30 to 17:10 | [Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | |
+16:30 to 17:10 |
+[Towards verifying algorithms for model-based engineering with TLA+]({{< ref "/OlivierConstant.md" >}}) | Olivier Constant (Thales) | [pptx](/2023/Constant.pptx) |
 17:10 to 17:50 | [TLA+ at AWS: Past, Present, and Future]({{< ref "/DragoiSchwiderski.md" >}}) | Cezara Dragoi & Scarlet Schwiderski-Grosche (AWS) | [pdf](/2023/DragoiSchwiderski.pdf) |
 _18:00_ | *End of the meeting* |
 
