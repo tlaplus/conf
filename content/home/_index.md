@@ -19,7 +19,7 @@ TLA<sup>+</sup> conference brings together industrial and academic users of the 
 * Adopting TLA<sup>+</sup> and its combination with other engineering pratices
 * How you can participate and contribute 
 
-Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by February 1st, 2024 to «tla2024» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but recordings may be made available on the web.  Presentations of relevant work published elsewhere are welcome.
+Please send a 1-2 page abstract summarizing the content of a 45-minute presentation by February 7st, 2024 to «tla2024» \o «@» \o «tlapl.us».  Notification of acceptance will be sent soon after.  There will not be formal proceedings, but recordings may be made available on the web.  Presentations of relevant work published elsewhere are welcome.
 
 Conference Organizers: 
 
