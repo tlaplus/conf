@@ -1,6 +1,6 @@
 +++
 title = "2024 - TLA+ Conf"
-weight = 69
+weight = 67
 +++
 
 # TLA+ Conference 2024
