@@ -6,6 +6,8 @@ weight = 1
 {{% notice note %}} The <a href="/2020/">schedule</a> of the TLA+ Community Event 2020 has been posted! {{% /notice %}}
 -->
 
+{{% notice note %}} <a href="https://www.linkedin.com/in/marc-brooker-b431772b/">Marc Brooker</a> - VP/Distinguished Engineer at Amazon Web Services - will look back in his keynote over the decade since the publication of <a href="https://www.amazon.science/publications/how-amazon-web-services-uses-formal-methods">“How Amazon Web Services Uses Formal Methods”</a>, how their practice has evolved since then, and the challenges for the future.{{% /notice %}}
+
 ### What is TLA+?
 <!-- Point at industrial success stories of TLA+ (Amazon/Microsoft/...) -->
 TLA<sup>+</sup> is a formal language for specifying systems used in industry and academia to verify complex distributed and concurrent systems. Among others, the TLA<sup>+</sup> methodology is successfully applied at [Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon-excerpt.html), [Microsoft](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/), and [Oracle](https://www.oracle.com).
