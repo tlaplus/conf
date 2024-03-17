@@ -3,9 +3,18 @@ title = "2024 - TLA+ Community Event"
 weight = 67
 +++
 
+<div align="right">
+<h4>
+
+TLA<sup>+</sup> Community Event 2024<br>
+Tuesday, September 10, 2024<br>
+Milano, Italy<br>
+</h4>
+</div>
+
 # TLA+ Community Event 2024
 
-### The TLA+ Community Event 2024 will be organized as a satellite of [FM 2024](https://www.fm24.polimi.it) in Milan (Italy), on September 10, 2024.
+### Co-organized with [FM 2024](https://www.fm24.polimi.it) in Milano (Italy), on September 10, 2024.
 
 [TLA+](https://lamport.azurewebsites.net/tla/tla.html) is a language that
 is used in academia and industry for formally specifying systems. It is
@@ -40,5 +49,3 @@ Participants will be required to register to FM 2024.
 * Igor Konnov, researcher in security and formal methods and TU Wien
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
 
-
-v0.2

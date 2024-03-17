@@ -3,6 +3,15 @@ title = "2024 - TLA+ Conf"
 weight = 66
 +++
 
+<div align="right">
+<h4>
+
+TLA<sup>+</sup> Conf 2024<br>
+Monday, April 15, 2024<br>
+Seattle, USA<br>
+</h4>
+</div>
+
 # TLA+ Conference 2024
 
 
