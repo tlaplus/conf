@@ -25,6 +25,7 @@ Please send a 1-2 page abstract summarizing the content of a 45-minute presentat
 
 Conference Organizers: 
 
+* [Julia Ferraioli](https://www.linkedin.com/in/juliaferraioli/)
 * [Murat Demirbas](https://cse.buffalo.edu/~demirbas/)
 * [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180)
 
