@@ -30,6 +30,6 @@ _12:00_ |	*Lunch* |
 _15:00_ | *Coffee Break* |
 15:30 | You Deserve Unicode TLA+, and Other Nice Things Too | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | Disjunctive Consulting LLC |  ||
 15:50 | Formal Methods in the Enterprise | [David McNeil](https://david-mcneil.com) |  |  ||
-16:10 | Automatic Interpretation of TLA+ Specs as Sequence Diagrams | Daniel Stachnik | Hasso Plattner Institute University of Potsdam |  ||
+16:10 | Tackling State Space Explosion in TLA+ Visualizations | Daniel Stachnik | Hasso Plattner Institute University of Potsdam |  ||
 16:30 | A Native, Interactive TLA+ Explorer for the Web | [William Schultz](https://will62794.github.io) | Northeastern University |  | |
 16:50 | End of the conference |
