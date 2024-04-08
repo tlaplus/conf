@@ -25,7 +25,7 @@ time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | spe
 11:30 | Reverse-Engineering with TLA+ | [Calvin Loncaric](https://calvin.loncaric.us) | Oracle |  ||
 _12:00_ |	*Lunch* |
 13:00 | Specification-Driven Development With TLA+ | [Guo Hua](https://github.com/ybbh) | Scupt & East China Normal University |  ||
-13:40 | Validating System Execution with the TLA+ Tools | [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180/) | Microsoft |  ||
+13:40 | Validating System Executions with the TLA+ Tools | [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180/) | Microsoft |  ||
 14:20 | Promises and Challenges in Bridging TLA+ Designs with Implementations | [Finn Hackett](https://fhackett.github.io) | University of British Columbia |  ||
 _15:00_ | *Coffee Break* |
 15:30 | You Deserve Unicode TLA+, and Other Nice Things Too | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | Disjunctive Consulting LLC |  ||
