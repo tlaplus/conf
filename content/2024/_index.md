@@ -15,7 +15,7 @@ Seattle, USA<br>
 # TLA+ Conference 2024
 
 
-time ([CDT](https://www.timeanddate.com/time/zone/usa/st-louis))  | title  | speaker | affiliation | slides | recording |
+time ([PDT](https://www.timeanddate.com/time/zone/usa/seattle))  | title  | speaker | affiliation | slides | recording |
 ------|--------|---------|--------|------------|-----|
 08:55 | Welcome & Opening Announcements | |  |  | |
 09:00 (tentative) | Keynote: *Fifteen years of formal methods at AWS* - Just under a decade ago, we published [“How Amazon Web Services Uses Formal Methods”](https://www.amazon.science/publications/how-amazon-web-services-uses-formal-methods) in CACM, describing our experiences with formal methods (especially TLA+) building production systems at AWS. In this talk, I’ll look back over the decade since that paper, how our practice has evolved since then, and the challenges for the future. | [Marc Brooker](https://www.linkedin.com/in/marc-brooker-b431772b/) | Amazon AWS |  | |
