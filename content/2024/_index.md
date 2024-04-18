@@ -24,12 +24,12 @@ time ([PDT](https://www.timeanddate.com/time/zone/usa/seattle))  | title  | spea
 11:00 | How we designed and model-checked MongoDB reconfiguration protocol | [Siyuan Zhou](https://www.linkedin.com/in/siyuan-zhou-5b477817/) | MongoDB |  ||
 11:30 | Reverse-Engineering with TLA+ | [Calvin Loncaric](https://calvin.loncaric.us) | Oracle | [pdf](CalvinLoncaric-ReverseEngineeringWithTLAPlus.pdf) ||
 _12:00_ |	*Lunch* |
-13:00 | Specification-Driven Development With TLA+ | [Guo Hua](https://github.com/ybbh) | Scupt & East China Normal University | [pptx](GuoHua-SpecificationDrivenDevelopmentWithTLAPlus.pptx) ||
+13:00 | Specification-Driven Development With TLA+ | [Guo Hua](https://github.com/ybbh) | Scupt & East China Normal University | [pptx](GuoHua-SpecificationDrivenDevelopmentWithTLAPlus.pptx) | [video](https://youtu.be/aef5UPd1IOM) |
 13:40 | Validating System Executions with the TLA+ Tools | [Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180/) | Microsoft | [pdf](MarkusAKuppe-ValidatingSystemExecutionsWithTheTLAPlusTools.pdf) ||
 14:20 | Promises and Challenges in Bridging TLA+ Designs with Implementations | [Finn Hackett](https://fhackett.github.io) | University of British Columbia | [pdf](FinnHackett-PromisesAndChallengesInBridgingTLAPlusDesignsWithImplementations.pdf) ||
 _15:00_ | *Coffee Break* |
 15:30 | You Deserve Unicode TLA+, and Other Nice Things Too | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | Disjunctive Consulting LLC | [odp](AndrewHelwer-YouDeserveUnicodeTLAPlus.odp) ||
 15:50 | Formal Methods in the Enterprise | [David McNeil](https://david-mcneil.com) |  | [pdf](DavidMcNeil-FormalMethodsEnterprise.pdf) ||
-16:10 | Tackling State Space Explosion in TLA+ Visualizations | Daniel Stachnik | Hasso Plattner Institute University of Potsdam |  ||
-16:30 | Towards Better Interactive Formal Specifications | [William Schultz](https://will62794.github.io) | Northeastern University | [pdf](/2024/WillSchultz-TowardsBetterInteractiveFormalSpecifications.pdf) | |
+16:10 | Tackling State Space Explosion in TLA+ Visualizations | Daniel Stachnik | Hasso Plattner Institute University of Potsdam |  | [video](https://youtu.be/CSl4uC9MZJM) |
+16:30 | Towards Better Interactive Formal Specifications | [William Schultz](https://will62794.github.io) | Northeastern University | [pdf](/2024/WillSchultz-TowardsBetterInteractiveFormalSpecifications.pdf) | [video](https://youtu.be/kSSWmxQLvmw) |
 16:50 | End of the conference |
