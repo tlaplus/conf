@@ -30,6 +30,6 @@ _12:00_ |	*Lunch* |
 _15:00_ | *Coffee Break* |
 15:30 | You Deserve Unicode TLA+, and Other Nice Things Too | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | Disjunctive Consulting LLC | [odp](AndrewHelwer-YouDeserveUnicodeTLAPlus.odp) | [video](https://youtu.be/PKgzljNez9Q) |
 15:50 | Formal Methods in the Enterprise | [David McNeil](https://david-mcneil.com) |  | [pdf](DavidMcNeil-FormalMethodsEnterprise.pdf) | [video](https://youtu.be/XWn3abFosY4) |
-16:10 | Tackling State Space Explosion in TLA+ Visualizations | Daniel Stachnik | Hasso Plattner Institute University of Potsdam |  | [video](https://youtu.be/CSl4uC9MZJM) |
+16:10 | Tackling State Space Explosion in TLA+ Visualizations | Daniel Stachnik | Hasso Plattner Institute University of Potsdam | [pdf](/2024/DanielStachnik-TacklingStateSpaceExplosionInTLAPlusSpecs.pdf) | [video](https://youtu.be/CSl4uC9MZJM) |
 16:30 | Towards Better Interactive Formal Specifications | [William Schultz](https://will62794.github.io) | Northeastern University | [pdf](/2024/WillSchultz-TowardsBetterInteractiveFormalSpecifications.pdf) | [video](https://youtu.be/kSSWmxQLvmw) |
 16:50 | End of the conference |
