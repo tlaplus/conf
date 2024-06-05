@@ -36,9 +36,9 @@ interest to users of TLA+ or PlusCal, such as:
 
 Proposals for presentations, with a short (2 page) abstract summarizing
 the content, should be sent to [tla2024@inria.fr](mailto:tla2024@inria.fr)
-by June 15, 2024. Please indicate if you want to give a short or long
+by July 7, 2024. Please indicate if you want to give a short or long
 presentation (25 or 40 minutes, including discussion). Notification will
-be given by June 29, 2024. 
+be given by July 15, 2024. 
 
 There will not be formal proceedings, but the abstracts and presentations
 will be made available on the Web.
@@ -48,4 +48,7 @@ Participants will be required to register to FM 2024.
 ### Organizers
 * Igor Konnov, researcher in security and formal methods and TU Wien
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
+
+### Program committee
+* Markus Kuppe, Microsoft
 
