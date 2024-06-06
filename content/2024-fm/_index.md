@@ -50,5 +50,6 @@ Participants will be required to register to FM 2024.
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
 
 ### Program committee
+* Julia Ferraioli, Amazon
 * Markus Kuppe, Microsoft
-
+* Giuliano Losa, Stellar Development Foundation
