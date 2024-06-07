@@ -50,7 +50,8 @@ Participants will be required to register to FM 2024.
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
 
 ### Program committee
+* [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/), University of British Columbia
 * Julia Ferraioli, Amazon
 * Markus Kuppe, Microsoft
-* [Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel)
+* [Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel), Heinrich-Heine Universität Düsseldorf
 * Giuliano Losa, Stellar Development Foundation
