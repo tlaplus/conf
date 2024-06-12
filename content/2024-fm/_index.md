@@ -54,4 +54,5 @@ Participants will be required to register to FM 2024.
 * Julia Ferraioli, Amazon
 * Markus Kuppe, Microsoft
 * [Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel), Heinrich-Heine Universität Düsseldorf
+* Calvin Loncaric, Oracle
 * Giuliano Losa, Stellar Development Foundation
