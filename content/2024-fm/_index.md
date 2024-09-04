@@ -27,7 +27,7 @@ time (CEST)  | title  | speaker | affiliation | slides |
 _12:30_ |	*Lunch* |
 14:00 | B+ or how to model system properties in a formal software model (FMICS keynote) | [Thierry Lecomte](https://fr.linkedin.com/in/thierry-lecomte-19695b) | Clearsy |  |
 15:20 | *Coffee Break* |
-15:50 | Validation Traces of Distributed Programs Against TLA+ Specifications | [Stephan Merz](https://members.loria.fr/SMerz/) | Inria |  | 
+15:50 | Validating Traces of Distributed Programs Against TLA+ Specifications | [Stephan Merz](https://members.loria.fr/SMerz/) | Inria |  | 
 16:20 | [A Model-Based Approach for the Formal Verification of Specifications](/2024-fm/samokish.pdf) | Andrew Samokish | LMF & Knowledge Inside |  |
 16:50 | Towards TLAPS IDE | [Karolis Petrauskas](http://karolis.5grupe.lt/home/) | Vilnius University |  |
 17:20 | On Proof Support in Event-B and TLA | [Jean Paul Bodeveix](https://www.irit.fr/~Jean-Paul.Bodeveix/), [Mamoun Filali](https://www.irit.fr/~Mamoun.Filali/) & Anne Grieu | University of Toulouse & IRIT |  |
