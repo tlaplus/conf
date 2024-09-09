@@ -14,6 +14,11 @@ Milano, Italy<br>
 
 # TLA+ Community Event 2024
 
+Politecnico di Milano<br>
+Piazza Leonardo da Vinci<br>
+Room 3.1.7
+
+
 ### Preliminary program
 
 time (CEST)  | title  | speaker | affiliation | slides | 
