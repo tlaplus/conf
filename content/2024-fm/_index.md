@@ -24,7 +24,7 @@ Room 3.1.7
 time (CEST)  | title  | speaker | affiliation | slides | 
 ------|--------|---------|--------|------------|
 08:55 | Welcome & Opening Announcements | [Stephan Merz](https://members.loria.fr/SMerz/) | | |
-09:00 | [Apalache](https://github.com/apalache-mc/apalache) Tutorial | [Igor Konnov](https://konnov.phd) |  |  |
+09:00 | [Apalache](https://github.com/apalache-mc/apalache) Tutorial | [Igor Konnov](https://konnov.phd) |  | [pdf](/2024-fm/slides-konnov.pdf) |
 09:50 | Verifying Liveness Properties of Consensus Algorithms | [Giuliano Losa](https://www.losa.fr) | Stellar Foundation | [pdf](/2024-fm/slides-losa.pdf) |
 10:20 | *Coffee Break* |
 10:50 | Specifying BGP Using TLA+ | [Aman Shaikh](https://www.linkedin.com/in/aman-shaikh-798b48/) | Google | [pdf](/2024-fm/slides-shaikh.pdf) |
@@ -35,7 +35,7 @@ _12:30_ |	*Lunch* |
 15:50 | Validating Traces of Distributed Programs Against TLA+ Specifications | [Stephan Merz](https://members.loria.fr/SMerz/) | Inria | [pdf](/2024-fm/slides-merz.pdf) | 
 16:20 | [A Model-Based Approach for the Formal Verification of Specifications](/2024-fm/samokish.pdf) | Andrew Samokish | LMF & Knowledge Inside |  |
 16:50 | Towards TLAPS IDE | [Karolis Petrauskas](http://karolis.5grupe.lt/home/) | Vilnius University | [pdf](/2024-fm/slides-petrauskas.pdf) |
-17:20 | On Proof Support in Event-B and TLA | [Jean Paul Bodeveix](https://www.irit.fr/~Jean-Paul.Bodeveix/), [Mamoun Filali](https://www.irit.fr/~Mamoun.Filali/) & Anne Grieu | University of Toulouse & IRIT |  |
+17:20 | On Proof Support in Event-B and TLA | [Jean Paul Bodeveix](https://www.irit.fr/~Jean-Paul.Bodeveix/), [Mamoun Filali](https://www.irit.fr/~Mamoun.Filali/) & Anne Grieu | University of Toulouse & IRIT | [pdf](/2024-fm/slides-filali.pdf) |
 17:50 | End of the meeting |
 
 
