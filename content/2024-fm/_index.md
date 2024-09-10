@@ -25,7 +25,7 @@ time (CEST)  | title  | speaker | affiliation | slides |
 ------|--------|---------|--------|------------|
 08:55 | Welcome & Opening Announcements | [Stephan Merz](https://members.loria.fr/SMerz/) | | |
 09:00 | [Apalache](https://github.com/apalache-mc/apalache) Tutorial | [Igor Konnov](https://konnov.phd) |  |  |
-09:50 | Verifying Liveness Properties of Consensus Algorithms | [Giuliano Losa](https://www.losa.fr) | Stellar Foundation | |
+09:50 | Verifying Liveness Properties of Consensus Algorithms | [Giuliano Losa](https://www.losa.fr) | Stellar Foundation | [pdf](/2024-fm/slides-losa.pdf) |
 10:20 | *Coffee Break* |
 10:50 | Specifying BGP Using TLA+ | [Aman Shaikh](https://www.linkedin.com/in/aman-shaikh-798b48/) | Google | [pdf](/2024-fm/slides-shaikh.pdf) |
 11:40 | Real Animation of TLA+ Models | [Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) & Jan Gruteser | HHU Düsseldorf |  |
