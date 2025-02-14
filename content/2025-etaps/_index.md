@@ -38,9 +38,9 @@ interest to users of TLA+ or PlusCal, such as:
 
 Proposals for presentations, with a short (2 page) abstract summarizing
 the content, should be sent to [tla2025@inria.fr](mailto:tla2025@inria.fr)
-by February 7, 2025. Please indicate if you want to give a short or long
+by February 28, 2025. Please indicate if you want to give a short or long
 presentation (25 or 40 minutes, including discussion). Notification will
-be given by February 17, 2025. 
+be given by March 4, 2025. 
 
 There will not be formal proceedings, but the abstracts and presentations
 will be made available on the Web.
