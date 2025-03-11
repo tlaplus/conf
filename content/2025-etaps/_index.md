@@ -36,24 +36,31 @@ interest to users of TLA+ or PlusCal, such as:
 * innovative use of existing tools or reports on their shortcomings,
 * use of TLA+ in education.
 
-Proposals for presentations, with a short (2 page) abstract summarizing
-the content, should be sent to [tla2025@inria.fr](mailto:tla2025@inria.fr)
-by February 28, 2025. Please indicate if you want to give a short or long
-presentation (25 or 40 minutes, including discussion). Notification will
-be given by March 4, 2025. 
+There will not be formal proceedings, but the abstracts and presentations will be made available on the Web.
 
-There will not be formal proceedings, but the abstracts and presentations
-will be made available on the Web.
+Participants will be required to register to ETAPS 2025.
 
-Participants will be required to 
-register
-to ETAPS 2025.
+### TLA+ Schedule
+
+| time | title  | speaker | affiliation | slides | recording |
+|------|--------|---------|--------|------------|-----|
+| 08:55 | Welcome & Opening Announcements | | | | |
+| 09:00 | *Formal models for monotonic pipeline architectures* | [J.-P. Bodeveix](https://dblp.org/pid/97/1837.html), [A. Bonenfant](https://scholar.google.fr/citations?user=8k2MVLYAAAAJ&hl=fr), [T. Carle](https://scholar.google.fr/citations?user=3iKALIoAAAAJ&hl=sr), [M. Filali](https://dblp.org/pid/60/599.html), [C. Rochange](https://www.irit.fr/~Christine.Rochange/) | | [pdf](filali.pdf) | |
+| 09:45 | *ModelFuzz: Model guided fuzzing of distributed systems* | [Srinidhi Nagendra](https://www.srinidhin.com) | Max Planck Institute for Software Systems | [pdf](nagendra.pdf) | |
+| _10:30_ | *Coffee Break* | | | | |
+| 10:45 | *Translating C to PlusCal for Model Checking of Safety Properties on Source Code* | [Guillaume DI FATTA](https://www.linkedin.com/in/guillaume-di-fatta-0441a3253/), [Emmanuel Ohayon](https://scholar.google.fr/citations?user=nYVf510AAAAJ&hl=fr), and [Amira Methni](https://dblp.org/pid/167/5040.html)| Asterios Technologies | [pdf](di-fatta.pdf) | |
+| 11:30 | *TLA+ for All: Model Checking in a Python Notebook* | [K. Läufer](https://laufer.cs.luc.edu) & [G. K. Thiruvathukal](https://gkt.sh) | Loyola University Chicago | [pdf](laufer.pdf) | |
+| _12:00_ | *Lunch* | | | | |
+| 13:00 | *TLA+ Modeling of MongoDB Transactions* | [Murat Demirbas](https://www.linkedin.com/in/muratdemirbas/) & [Will Schultz](https://www.linkedin.com/in/william-schultz-a22714a2/) | MongoDB | [pdf](demirbas.pdf) | |
+| 13:45 | *Automating Trace Validation with PGo* | [Finn Hackett](https://fhackett.com) & [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) | University of British Columbia | [pdf](hackett.pdf) | |
+| _14:30_ | *Coffee Break* | | | | |
+| 14:45 | *It's never been easier to write TLA⁺ tooling!* | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | | [txt](helwer.txt) | |
+| 15:15 | *Are We Serious About Using TLA+ For Statistical Properties?* | [A. Jesse Jiryu Davis](https://emptysqua.re) | MongoDB | [txt](davis.txt) | |
+| 15:45 | Discussion Panel | | | | |
+| 16:00 | Closing Remarks | | | | |
+| 16:15 | End of the conference | | | | |
 
 ### Organizers
 * Igor Konnov, researcher in security and formal methods and TU Wien
-* Markus Kuppe, Microsoft
+* Markus Kuppe, Nvidia
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
-
-### Program committee
-
-TBA
