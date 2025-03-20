@@ -49,7 +49,7 @@ Participants will be required to register to ETAPS 2025.
 | 09:45 | *ModelFuzz: Model guided fuzzing of distributed systems* | [Srinidhi Nagendra](https://www.srinidhin.com) | Max Planck Institute for Software Systems | [pdf](nagendra.pdf) | |
 | _10:30_ | *Coffee Break* | | | | |
 | 10:45 | *Translating C to PlusCal for Model Checking of Safety Properties on Source Code* | [Guillaume DI FATTA](https://www.linkedin.com/in/guillaume-di-fatta-0441a3253/), [Emmanuel Ohayon](https://scholar.google.fr/citations?user=nYVf510AAAAJ&hl=fr), and [Amira Methni](https://dblp.org/pid/167/5040.html)| Asterios Technologies | [pdf](di-fatta.pdf) | |
-| 11:30 | *TLA+ for All: Model Checking in a Python Notebook* | [K. Läufer](https://laufer.cs.luc.edu) & [G. K. Thiruvathukal](https://gkt.sh) | Loyola University Chicago | [pdf](laufer.pdf) | |
+| 11:30 | *TLA+ for All: Model Checking in a Python Notebook* | [Konstantin Läufer](https://laufer.cs.luc.edu) & [George K. Thiruvathukal](https://gkt.sh) | Loyola University Chicago | [pdf](laufer.pdf) | |
 | _12:00_ | *Lunch* | | | | |
 | 13:00 | *TLA+ Modeling of MongoDB Transactions* | [Murat Demirbas](https://www.linkedin.com/in/muratdemirbas/) & [Will Schultz](https://www.linkedin.com/in/william-schultz-a22714a2/) | MongoDB | [pdf](demirbas.pdf) | |
 | 13:45 | *Automating Trace Validation with PGo* | [Finn Hackett](https://fhackett.com) & [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) | University of British Columbia | [pdf](hackett.pdf) | |
