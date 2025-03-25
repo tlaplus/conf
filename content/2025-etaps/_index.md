@@ -63,4 +63,5 @@ Participants will be required to register to ETAPS 2025.
 ### Organizers
 * Igor Konnov, researcher in security and formal methods and TU Wien
 * Markus Kuppe, Nvidia
+* Murat Demirbas, MongoDB
 * [Stephan Merz](https://members.loria.fr/SMerz/), Inria Nancy
