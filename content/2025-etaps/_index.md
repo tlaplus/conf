@@ -47,7 +47,7 @@ Participants will be required to register to ETAPS 2025.
 | 09:00 | Welcome & Opening Announcements | | | | |
 | 09:15 | *ModelFuzz: Model guided fuzzing of distributed systems* | [Srinidhi Nagendra](https://www.srinidhin.com) | Max Planck Institute for Software Systems | [pdf](nagendra.pdf) | |
 | _10:00_ | *Coffee Break* | | | | |
-| 10:130 | *Automating Trace Validation with PGo* | [Finn Hackett](https://fhackett.com) & [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) | University of British Columbia | [pdf](hackett.pdf) | |
+| 10:30 | *Automating Trace Validation with PGo* | [Finn Hackett](https://fhackett.com) & [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) | University of British Columbia | [pdf](hackett.pdf) | |
 | 11:15 | *Translating C to PlusCal for Model Checking of Safety Properties on Source Code* | [Guillaume DI FATTA](https://www.linkedin.com/in/guillaume-di-fatta-0441a3253/), [Emmanuel Ohayon](https://scholar.google.fr/citations?user=nYVf510AAAAJ&hl=fr), and [Amira Methni](https://dblp.org/pid/167/5040.html)| Asterios Technologies | [pdf](di-fatta.pdf) | |
 | 12:00 | *TLA+ for All: Model Checking in a Python Notebook* | [Konstantin Läufer](https://laufer.cs.luc.edu) & [George K. Thiruvathukal](https://gkt.sh) | Loyola University Chicago | [pdf](laufer.pdf) | |
 | _12:30_ | *Lunch* | | | | |
@@ -56,7 +56,7 @@ Participants will be required to register to ETAPS 2025.
 | 15:30 | *Are We Serious About Using TLA+ For Statistical Properties?* | [A. Jesse Jiryu Davis](https://emptysqua.re) | MongoDB | [txt](davis.txt) | |
 | _16:00_ | *Coffee Break* | | | | |
 | 16:30 | *It's never been easier to write TLA⁺ tooling!* | [Andrew Helwer](https://www.linkedin.com/in/ahelwer/) | | [txt](helwer.txt) | |
-| 17:20 | Discussion Panel | | | | |
+| 17:00 | Discussion Panel | | | | |
 | 17:20 | Closing Remarks | | | | |
 | 17:30 | End of the conference | | | | |
 
