@@ -19,6 +19,26 @@ Torino, Italy<br>
 ### Co-located with [ETAPS 2026](https://etaps.org/2026/) in Torino, Italy, on April 12, 2026.
 
 
+### Accepted presentations
+
+* J. Belzer: P2P2P (PlusCal to PlantUML to PDF)
+* J.-P. Bodeveix, A. Bonenfant, T. Carle, M. Filali, C. Rochange, L. Sylvestre:
+  A generic hardware in-order pipeline architecture model to capture key temporal properties
+* Q. Delamea, J. Burman, J. Gurhem, S. Vialle: 
+  A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments
+* M. Demirbas: Thinking in TLA+ – Modeling Judgment for System Design
+* I. Kokorin, E. Chernatskiy, V. Aksenov:
+  Model-based Testing of Practical Distributed Systems in Actor Model
+* I. Konnov: Interactive symbolic testing with TLA+, Apalache, and LLMs
+* K. Petrauskas: Extensible Proof Decomposition Rules for TLAPS
+* A.C. Ribeiro, M. Mamede, C. Ferreira:
+  Systematic API Testing through Model Checking and Executable Contracts
+* U. Yavuz: Verifying differential privacy in TLA+ via self-products
+* Y. Zhou, S. Tripakis: Towards Language Model Guided TLA+ Proof Automation
+
+
+### Call for presentations
+
 [TLA+](https://lamport.azurewebsites.net/tla/tla.html) is a language that
 is used in academia and industry for formally specifying systems. It is
 supported by [verification tools](https://lamport.azurewebsites.net/tla/tools.html), 
@@ -44,7 +64,8 @@ Proposed contributions should be submitted by January 31, 2026 to tla2026@inria.
 It is expected that the contribution will be presented on 1-2 pages. 
 Longer submissions will be read at the discretion of the program committee.
 
-Participants will be required to register to ETAPS 2026 (early registration deadline: March 10, 2026).
+Participants will be required to [register](https://etaps.org/2026/registration/) to ETAPS 2026 (early registration deadline: March 10, 2026).
+We encourage participants to include the workshop dinner on Sunday evening in their registration.
 
 ### Organizers
 * Igor Konnov, researcher in security and formal methods and TU Wien
