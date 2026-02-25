@@ -1,6 +1,6 @@
 +++
 title = "2026 - TLA+ Community Event"
-weight = 64
+weight = 63
 +++
 
 <div align="right">
