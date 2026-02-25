@@ -21,7 +21,7 @@ Torino, Italy<br>
 
 ### Accepted presentations
 
-* J. Belzer: P2P2P (PlusCal to PlantUML to PDF)
+* J. Belzer, J.J. Serrano Mora, A.B. Marcos, C. Lamb: P2P2P (PlusCal to PlantUML to PDF)
 * J.-P. Bodeveix, A. Bonenfant, T. Carle, M. Filali, C. Rochange, L. Sylvestre:
   A generic hardware in-order pipeline architecture model to capture key temporal properties
 * Q. Delamea, J. Burman, J. Gurhem, S. Vialle: 
