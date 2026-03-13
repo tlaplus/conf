@@ -18,23 +18,30 @@ Torino, Italy<br>
 
 ### Co-located with [ETAPS 2026](https://etaps.org/2026/) in Torino, Italy, on April 12, 2026.
 
+### Schedule
 
-### Accepted presentations
+| time | title  | speaker | affiliation | slides | recording |
+|------|--------|---------|--------|------------|-----|
+| 09:00 | A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments | [Quentin Delamea](https://fr.linkedin.com/in/quentin-delamea-380a67198) | Aneo & Univ. Saclay 
+| 09:30 | A generic hardware in-order pipeline architecture model to capture key temporal properties | [Mamoun Filali](https://www.researchgate.net/profile/Mamoun-Filali) | CNRS & IRIT 
+| _10:00_ | *Coffee Break *
+| 10:30 | Extensible Proof Decomposition Rules for TLAPS | [Karolis Petrauskas](https://www.researchgate.net/profile/Karolis-Petrauskas) | Vilnius University 
+| 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon
+| 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | Ilya Kokorin | ITMO University 
+| 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) | 
+| _12:30_ | *Lunch Break*
+| 14:00 | Thinking in TLA+ – Modeling Judgment for System Design | [Murat Demirbas](https://muratbuffalo.blogspot.com) | MongoDB 
+| 14:50 | P2P2P (PlusCal to PlantUML to PDF) | [Jackson Belzer](https://www.linkedin.com/in/jackson-belzer) | Northern Arizona University 
+| 15:20 | Towards Language Model Guided TLA+ Proof Automation | [Yuhao Zhou](https://www.khoury.northeastern.edu/home/yuhaoz/index.html) | Northeastern University 
+| _16:00_ | *Coffee Break* 
+| 16:30 | Verifying differential privacy in TLA+ via self-products | [Ugur Yavuz](https://uguryav.uz) | Boston University 
+| 17:00 | Roundtable & closing 
+| 19:30 | Workshop dinner 
 
-* J. Belzer, J.J. Serrano Mora, A.B. Marcos, C. Lamb: P2P2P (PlusCal to PlantUML to PDF)
-* J.-P. Bodeveix, A. Bonenfant, T. Carle, M. Filali, C. Rochange, L. Sylvestre:
-  A generic hardware in-order pipeline architecture model to capture key temporal properties
-* Q. Delamea, J. Burman, J. Gurhem, S. Vialle: 
-  A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments
-* M. Demirbas: Thinking in TLA+ – Modeling Judgment for System Design
-* I. Kokorin, E. Chernatskiy, V. Aksenov:
-  Model-based Testing of Practical Distributed Systems in Actor Model
-* I. Konnov: Interactive symbolic testing with TLA+, Apalache, and LLMs
-* K. Petrauskas: Extensible Proof Decomposition Rules for TLAPS
-* A.C. Ribeiro, M. Mamede, C. Ferreira:
-  Systematic API Testing through Model Checking and Executable Contracts
-* U. Yavuz: Verifying differential privacy in TLA+ via self-products
-* Y. Zhou, S. Tripakis: Towards Language Model Guided TLA+ Proof Automation
+
+Participants are required to [register](https://etaps.org/2026/registration/) to ETAPS 2026 (early registration deadline: March 10, 2026).
+We encourage participants to include the workshop dinner on Sunday evening in their registration.
+
 
 
 ### Call for presentations
@@ -63,9 +70,6 @@ There will not be formal proceedings, but the abstracts and presentations will b
 Proposed contributions should be submitted by January 31, 2026 to tla2026@inria.fr.
 It is expected that the contribution will be presented on 1-2 pages. 
 Longer submissions will be read at the discretion of the program committee.
-
-Participants will be required to [register](https://etaps.org/2026/registration/) to ETAPS 2026 (early registration deadline: March 10, 2026).
-We encourage participants to include the workshop dinner on Sunday evening in their registration.
 
 ### Organizers
 * Igor Konnov, researcher in security and formal methods and TU Wien
