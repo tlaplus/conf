@@ -35,7 +35,8 @@ Torino, Italy<br>
 | 15:20 | Towards Language Model Guided TLA+ Proof Automation | [Yuhao Zhou](https://www.khoury.northeastern.edu/home/yuhaoz/index.html) | Northeastern University 
 | _16:00_ | *Coffee Break* 
 | 16:30 | Verifying differential privacy in TLA+ via self-products | [Ugur Yavuz](https://uguryav.uz) | Boston University 
-| 17:00 | Roundtable & closing 
+| 17:00 | Veil: Multi-Modal Verification of Transition Systems | [George Pîrlea](https://pirlea.net) | National University of Singapore
+| 17:30 | Roundtable & closing 
 | 19:30 | Workshop dinner 
 
 
