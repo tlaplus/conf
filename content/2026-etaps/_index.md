@@ -24,7 +24,7 @@ Torino, Italy<br>
 |------|--------|---------|--------|------------|-----|
 | 09:00 | A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments | [Quentin Delamea](https://fr.linkedin.com/in/quentin-delamea-380a67198) | Aneo & Univ. Saclay 
 | 09:30 | A generic hardware in-order pipeline architecture model to capture key temporal properties | [Mamoun Filali](https://www.researchgate.net/profile/Mamoun-Filali) | CNRS & IRIT 
-| _10:00_ | *Coffee Break *
+| _10:00_ | *Coffee Break*
 | 10:30 | Extensible Proof Decomposition Rules for TLAPS | [Karolis Petrauskas](https://www.researchgate.net/profile/Karolis-Petrauskas) | Vilnius University 
 | 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon
 | 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | Ilya Kokorin | ITMO University 
