@@ -31,7 +31,7 @@ Torino, Italy<br>
 | 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) | 
 | _12:30_ | *Lunch Break*
 | 14:00 | Thinking in TLA+ – Modeling Judgment for System Design | [Murat Demirbas](https://muratbuffalo.blogspot.com) | MongoDB 
-| 14:50 | P2P2P (PlusCal to PlantUML to PDF) | [Jackson Belzer](https://www.linkedin.com/in/jackson-belzer) | Northern Arizona University 
+| 14:50 | P2P2P (PlusCal to PlantUML to PDF) | [Juan José Serrano Mora](https://www.linkedin.com/in/juan-josé-serrano-mora/) | Northern Arizona University 
 | 15:20 | Towards Language Model Guided TLA+ Proof Automation | [Yuhao Zhou](https://www.khoury.northeastern.edu/home/yuhaoz/index.html) | Northeastern University 
 | _16:00_ | *Coffee Break* 
 | 16:30 | Verifying differential privacy in TLA+ via self-products | [Ugur Yavuz](https://uguryav.uz) | Boston University 
