@@ -27,7 +27,7 @@ Torino, Italy<br>
 | _10:00_ | *Coffee Break*
 | 10:30 | Extensible Proof Decomposition Rules for TLAPS | [Karolis Petrauskas](https://www.researchgate.net/profile/Karolis-Petrauskas) | Vilnius University 
 | 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon
-| 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | Ilya Kokorin | ITMO University 
+| 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | [Ilya Kokorin](https://www.linkedin.com/in/ilyambda/) | ITMO University | [slides](https://docs.google.com/presentation/d/18oOpSkNoEdvN4Gb8JwrgjM3AFlQTk0JxCoEsRlShZGE/edit)
 | 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) | 
 | _12:30_ | *Lunch Break*
 | 14:00 | Thinking in TLA+ – Modeling Judgment for System Design | [Murat Demirbas](https://muratbuffalo.blogspot.com) | MongoDB 
@@ -43,6 +43,8 @@ Torino, Italy<br>
 Participants are required to [register](https://etaps.org/2026/registration/) to ETAPS 2026 (early registration deadline: March 10, 2026).
 We encourage participants to include the workshop dinner on Sunday evening in their registration.
 
+Registered participants who cannot attend the meeting in Torino may participate
+[remotely](https://zoom-lfx.platform.linuxfoundation.org/meeting/92459583553?password=caee8799-8e64-42b6-b93e-c767d48c32c4).
 
 
 ### Call for presentations
