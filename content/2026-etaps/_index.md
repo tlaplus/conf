@@ -26,7 +26,7 @@ Torino, Italy<br>
 | 09:30 | A generic hardware in-order pipeline architecture model to capture key temporal properties | [Mamoun Filali](https://www.researchgate.net/profile/Mamoun-Filali) | CNRS & IRIT 
 | _10:00_ | *Coffee Break*
 | 10:30 | Extensible Proof Decomposition Rules for TLAPS | [Karolis Petrauskas](https://www.researchgate.net/profile/Karolis-Petrauskas) | Vilnius University | [slides](petrauskas-2026.pdf)
-| 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon
+| 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon | [slides](ribeiro-2026.pdf)
 | 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | [Ilya Kokorin](https://www.linkedin.com/in/ilyambda/) | ITMO University | [slides](kokorin-2026.pdf)
 | 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) | [slides](konnov-2026.pdf)
 | _12:30_ | *Lunch Break*
