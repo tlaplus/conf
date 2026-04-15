@@ -22,17 +22,17 @@ Torino, Italy<br>
 
 | time | title  | speaker | affiliation | slides | recording |
 |------|--------|---------|--------|------------|-----|
-| 09:00 | A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments | [Quentin Delamea](https://fr.linkedin.com/in/quentin-delamea-380a67198) | Aneo & Univ. Saclay 
-| 09:30 | A generic hardware in-order pipeline architecture model to capture key temporal properties | [Mamoun Filali](https://www.researchgate.net/profile/Mamoun-Filali) | CNRS & IRIT 
+| 09:00 | A Compositional Strategy for Verifying Fault-Tolerant Dynamic Task Graph Scheduling in Modern Cloud Environments | [Quentin Delamea](https://fr.linkedin.com/in/quentin-delamea-380a67198) | Aneo & Univ. Saclay | [ppt](delamea-2026.ppsx) [pdf](delamea-2026.pdf)
+| 09:30 | A generic hardware in-order pipeline architecture model to capture key temporal properties | [Mamoun Filali](https://www.researchgate.net/profile/Mamoun-Filali) | CNRS & IRIT | [slides](filali-2026.pdf)
 | _10:00_ | *Coffee Break*
 | 10:30 | Extensible Proof Decomposition Rules for TLAPS | [Karolis Petrauskas](https://www.researchgate.net/profile/Karolis-Petrauskas) | Vilnius University | [slides](petrauskas-2026.pdf)
 | 11:00 | Systematic API Testing through Model Checking and Executable Contracts | [Ana Catarina Ribeiro](https://pt.linkedin.com/in/acm-ribeiro) | NOVA University, Lisbon | [slides](ribeiro-2026.pdf)
 | 11:30 | Model-based Testing of Practical Distributed Systems in Actor Model | [Ilya Kokorin](https://www.linkedin.com/in/ilyambda/) | ITMO University | [slides](kokorin-2026.pdf)
-| 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) | [slides](konnov-2026.pdf)
+| 12:00 | Interactive symbolic testing with TLA+, Apalache, and LLMs | [Igor Konnov](https://konnov.phd) |  | [slides](konnov-2026.pdf)
 | _12:30_ | *Lunch Break*
 | 14:00 | Thinking in TLA+ – Modeling Judgment for System Design | [Murat Demirbas](https://muratbuffalo.blogspot.com) | MongoDB | [slides](demirbas-2026.pdf)
-| 14:50 | P2P2P (PlusCal to PlantUML to PDF) | [Juan José Serrano Mora](https://www.linkedin.com/in/juan-josé-serrano-mora/) | Northern Arizona University 
-| 15:20 | Towards Language Model Guided TLA+ Proof Automation | [Yuhao Zhou](https://www.khoury.northeastern.edu/home/yuhaoz/index.html) | Northeastern University 
+| 14:50 | P2P2P (PlusCal to PlantUML to PDF) | [Juan José Serrano Mora](https://www.linkedin.com/in/juan-josé-serrano-mora/) | Northern Arizona University | [slides](mora-2026.pdf)
+| 15:20 | Towards Language Model Guided TLA+ Proof Automation | [Yuhao Zhou](https://www.khoury.northeastern.edu/home/yuhaoz/index.html) | Northeastern University | [slides](zhou-2026.pdf)
 | _16:00_ | *Coffee Break* 
 | 16:30 | Verifying differential privacy in TLA+ via self-products | [Ugur Yavuz](https://uguryav.uz) | Boston University | [slides](yavuz-2026.pdf)
 | 17:00 | Veil: Multi-Modal Verification of Transition Systems | [George Pîrlea](https://pirlea.net) | National University of Singapore | [slides](pirlea-2026.pdf)
@@ -42,9 +42,6 @@ Torino, Italy<br>
 
 Participants are required to [register](https://etaps.org/2026/registration/) to ETAPS 2026 (early registration deadline: March 10, 2026).
 We encourage participants to include the workshop dinner on Sunday evening in their registration.
-
-Registered participants who cannot attend the meeting in Torino may participate
-[remotely](https://zoom-lfx.platform.linuxfoundation.org/meeting/92459583553?password=caee8799-8e64-42b6-b93e-c767d48c32c4).
 
 
 ### Call for presentations
